@@ -1,0 +1,47 @@
+{% assign d = site.data %}
+<div id="mobile-nav-dimmer"></div>
+<nav id="mobile-nav" style="margin-top: 85px">
+    <div id="mobile-nav-inner">
+        <ul id="mobile-nav-list">
+            {% for item in site.data.menu %}
+            <a href="{{ item.link }}" class="mobile-nav-link">
+                {{ item.name }}
+            </a> {% endfor %}
+        </ul>
+        {% if page.sidebar %} {% if page.about %}
+        <strong class="mobile-nav-title">{{ site.data.about.main }}</strong> {% for item in site.data.about.subtitle %}
+        <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> {% endfor %} {% elsif page.science %}
+        <strong class="mobile-nav-title">{{ d.science.main }}</strong>
+        <strong class="mobile-nav-sub-title">{{ d.science.genome[0].submain }}</strong>
+        {% for item in d.science.genome[1].subtitle %}
+            <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> 
+        {% endfor %}
+        <strong class="mobile-nav-sub-title">{{ d.science.epigenetics[0].submain }}</strong>
+        {% for item in d.science.epigenetics[1].subtitle %}
+            <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> 
+        {% endfor %}
+        <strong class="mobile-nav-sub-title">{{ d.science.transcriptome[0].submain }}</strong>
+        {% for item in d.science.transcriptome[1].subtitle %}
+            <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> 
+        {% endfor %}
+        <strong class="mobile-nav-sub-title">{{ d.science.interactome[0].submain }}</strong>
+        {% for item in d.science.interactome[1].subtitle %}
+            <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> 
+        {% endfor %}
+    {% elsif page.medicine %}
+        <strong class="mobile-nav-title">{{ d.medicine.main }}</strong>
+        {% for item in d.medicine.subtitle %}
+            <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> 
+        {% endfor %} {% elsif page.contact %}
+        <strong class="mobile-nav-title">{{ site.data.contact.main }}</strong> {% for item in site.data.contact.subtitle %}
+        <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> {% endfor %} {% endif %}
+        {% endif %}
+    </div>
+    <div id="mobile-lang-select-wrap">
+        <span id="mobile-lang-select-label"></i><span></span></span>
+        <select id="mobile-lang-select" data-canonical="docs/index.html">
+        </select>
+    </div>
+</nav>
+<script src="/js/main-93b96d8a86.js"></script>
+<script src="https://cdn.jsdelivr.net/retinajs/1.3.0/retina.min.js" async></script>

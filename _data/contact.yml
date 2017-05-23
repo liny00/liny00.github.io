@@ -1,0 +1,8 @@
+main: "联系我们"
+
+subtitle:
+  - name: "联系方式"
+    link: "/contact/"
+
+  - name: "人才招聘"
+    link: "/contact/talent/"

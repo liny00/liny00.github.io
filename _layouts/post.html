@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div id="content-inner">
+    <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+            <div class="article">
+                <div class="inner">
+                  {% for post in site.posts %}
+                    <header>
+                        <h5 itemprop="name"><a class="post-title" href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>
+                      <span class="pull-right"> 
+                        <i class="fa fa-calendar"></i>
+                          <time>
+                            {{ post.date | date:'%A, %B %d, %Y'}}
+                          </time>
+                      </span>
+                      </h5>            
+                    </header>
+                    <div class="article-content post-content" itemprop="articleBody">
+                    {% if post.thumbnail %}
+                    <div class="pull-left post-img">
+                        <a href="{{post.url | prepend: site.baseurl }}">
+                          <img class="pull-left post-img" src="{{post.thumbnail}}" alt="{{post.title}}"  class="pull-left img-responsive thumb img-thumbnail" />
+                        </a>
+                    </div>
+                    {% endif %}
+                        <p>{{ post.description | remove: '<p>' | remove: '</p>' }}<a class="pull-right" href="{{post.url | prepend: site.baseurl }}">Read More</a></p>
+                    </div>
+                    <hr>
+                  {% endfor %}
+                </div>
+            </div>
+        </div>
+    </article>
+    {% include sidebar.html %}
+</div>

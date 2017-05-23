@@ -1,0 +1,8 @@
+main: "资讯中心"
+
+subtitle:
+  - name: "公司新闻"
+    link: "/company/"
+
+  - name: "行业动态"
+    link: "/field/"

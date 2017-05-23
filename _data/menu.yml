@@ -1,0 +1,17 @@
+- name: "首页"
+  link: "/"
+
+- name: "关于康测"
+  link: "/about/"
+
+- name: "科研服务"
+  link: "/science/"
+
+- name: "建库技术供应商"
+  link: "/library_build/"
+
+- name: "资讯中心"
+  link: "/news/"
+
+- name: "联系我们"
+  link: "/contact/"

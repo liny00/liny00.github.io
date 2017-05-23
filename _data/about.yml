@@ -1,0 +1,17 @@
+main: "关于康测"
+
+subtitle:
+  - name: "公司简介"
+    link: "/about/"
+
+  - name: "发展历程"
+    link: "/about/history/"
+
+  - name: "硬件设施"
+    link: "/about/hardware/"
+
+  - name: "人才队伍"
+    link: "/about/team/"
+
+  - name: "合作伙伴"
+    link: "/about/partner/"

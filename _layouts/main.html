@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div id="content-inner">
+    {% include sidebar.html %}
+    <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+            <div class="article">
+                <div class="inner">
+                    <header class="article-header">
+                        <h1 class="article-title" itemprop="name"><strong>{{page.title}}</strong></h1>
+                    </header>
+                    <div class="article-content" itemprop="articleBody">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+</div>
