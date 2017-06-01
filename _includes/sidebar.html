@@ -6,10 +6,10 @@
     		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
     	{% endfor %}
 	{% elsif page.science %}
-		<strong class="sidebar-title">{{ d.science.main }}</strong>
-		<strong class="sidebar-sub-title">{{ d.science.genome[0].submain }}</strong>
+		<div class="sidebar-title"><strong>{{ d.science.main }}</strong></div>
+		<div class="sidebar-sub-title"><strong>{{ d.science.genome[0].submain }}</strong></div>
 		{% for item in d.science.genome[1].subtitle %}
-    		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
+    		<div><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div> 
     	{% endfor %}
     	<strong class="sidebar-sub-title">{{ d.science.epigenetics[0].submain }}</strong>
 		{% for item in d.science.epigenetics[1].subtitle %}

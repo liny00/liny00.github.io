@@ -567,14 +567,13 @@ body {
 
 .sidebar-title {
     margin-top: 40px;
-    padding: 10px 0;
+    padding: 0.7rem 0 0.5rem 0.5rem;
     font-weight: 700;
-    /*color: #0e83cd;*/
-    color: #075E04;
+    color: black;
+    background: #e2e7d4;
     display: inline-block;
-    /*border-top: 1px solid #e3e3e3*/
-    /*border-top: 1px solid #075E04;*/
-    border-bottom: 1px solid #075E04;
+    width: 100%;
+    font-size: 1.2rem;
 }
 
 .sidebar-link,
@@ -589,12 +588,11 @@ body {
     display: block;
     color: #444;
     text-decoration: none;
-    padding: 7px 0;
+    padding: 0.7rem 0 0.5rem 0.5rem;
+    font-size: 1rem;
     position: relative;
     width: 100%;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap
+    white-space: wrap
 }
 
 .sidebar-link.current,
@@ -668,7 +666,8 @@ body {
 .article {
     float: left;
     width: 100%;
-    padding: 40px 0
+    padding: 40px 0;
+    border-left: 2px solid #eee;
 }
 
 @media print {
@@ -832,7 +831,7 @@ a.article-title:hover {
 .article-content p,
 .article-content table,
 .article-content ul {
-    margin: 1em 0;
+    padding: 1em 0;
     /*margin-top: 1em;*/
     line-height: 30px;
     font-size: 16px;
