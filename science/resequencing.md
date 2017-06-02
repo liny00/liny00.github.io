@@ -27,27 +27,27 @@ science: true
 ## 分析结果展示
 
 <img src="/image/resequencing/4.png">
-Indels基因及功能注释</p>
+<p style="text-align: center; ">Indels基因及功能注释</p>
 
 <br>
 
 <img src="/image/resequencing/5.png">
-差异基因GO富集分类图</p>
+<p style="text-align: center; ">差异基因GO富集分类图</p>
 
 <br>
 
 <img src="/image/resequencing/6.png">
-样品间GO通路汇总比较</p>
+<p style="text-align: center; ">样品间GO通路汇总比较</p>
 
 <br>
 
 <img src="/image/resequencing/示例信号通路800.jpg">
-示例信号通路</p>
+<p style="text-align: center; ">示例信号通路</p>
 
 <br>
 
 <img src="/image/resequencing/8.png">
-GWAS的Manhattan图</p>
+<p style="text-align: center; ">GWAS的Manhattan图</p>
 
 <br>
 

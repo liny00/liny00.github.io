@@ -199,8 +199,8 @@ body {
     /*position: relative;*/
     background: white;
     opacity: 0.9;
-    padding: 10px 0;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+    /*box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);*/
+    border-bottom: 2px solid #eee
 }
 
 @media print {
@@ -222,6 +222,7 @@ body {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
+    padding: 0.4rem 0;
 }
 
 @media screen and (max-width:768px) {
@@ -566,7 +567,7 @@ body {
 }
 
 .sidebar-title {
-    margin-top: 40px;
+    margin-top: 0.5rem;
     padding: 0.7rem 0 0.5rem 0.5rem;
     font-weight: 700;
     color: black;
@@ -666,7 +667,7 @@ body {
 .article {
     float: left;
     width: 100%;
-    padding: 40px 0;
+    margin: 0.5rem 0;
     border-left: 2px solid #eee;
 }
 
@@ -831,7 +832,8 @@ a.article-title:hover {
 .article-content p,
 .article-content table,
 .article-content ul {
-    padding: 1em 0;
+    /*padding: 1em 0;*/
+    padding-bottom: 1rem;
     /*margin-top: 1em;*/
     line-height: 30px;
     font-size: 16px;
@@ -866,6 +868,7 @@ a.article-title:hover {
     /*margin: 1em 0*/
     margin-top: -4em;
     padding-top: 5em;
+    padding-bottom: 0.5rem;
 }
 
 .article-content a {

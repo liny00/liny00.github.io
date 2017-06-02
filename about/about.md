@@ -6,7 +6,7 @@ sidebar: true
 about: true
 ---
 
-<img src="/image/w6.jpg" style="float: left; width: 35em; margin-right: 2em; margin-bottom: 1em;">
+<div><img src="/image/w6.jpg" style="float: left; width: 35em; margin-right: 2em; margin-bottom: 1em;"></div>
 
 武汉康测科技有限公司总部坐落于国家级经济开发区武汉光谷生物城国家生物产业基地，专注于新一代基因组学技术在人类医学健康和生命科学研究两大领域的产业化应用。由来自武汉大学、加州大学圣地亚哥分校（UCSD）、中国医学科学院长期从事功能基因组学和生物信息学研究的科学家联合数位志同道合的投资人联合创立。
 
