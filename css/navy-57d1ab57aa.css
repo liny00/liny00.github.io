@@ -65,25 +65,17 @@ var {
     vertical-align: baseline
 }
 
-@font-face{
-  font-family:'xh';
-  src:url("../font/ltxh/xh.eot");
-  src:local(FZLanTingHei-EL-GBK),
-    url("../font/ltxh/xh.eot?#iefix") format("embedded-opentype"),
-    url("../font/ltxh/xh.woff") format("woff"),
-    url("../font/ltxh/xh.ttf") format("truetype"),
-    url("../font/ltxh/xh.svg") format("svg");
-}
-@font-face{
-  font-family:'F700b1';
-  src:url("../font/700b136771817c.eot");
-  src:local(FZLanTingHei-EL-GBK),
-    url("../font/700b136771817c.eot?#iefix") format("embedded-opentype"),
-    url("../font/700b136771817c.woff") format("woff"),
-    url("../font/700b136771817c.ttf") format("truetype"),
-    url("../font/700b136771817c.svg") format("svg");
+@font-face {
+    font-family: 'xh';
+    src: url("../font/ltxh/xh.eot");
+    src: local(FZLanTingHei-EL-GBK), url("../font/ltxh/xh.eot?#iefix") format("embedded-opentype"), url("../font/ltxh/xh.woff") format("woff"), url("../font/ltxh/xh.ttf") format("truetype"), url("../font/ltxh/xh.svg") format("svg");
 }
 
+@font-face {
+    font-family: 'F700b1';
+    src: url("../font/700b136771817c.eot");
+    src: local(FZLanTingHei-EL-GBK), url("../font/700b136771817c.eot?#iefix") format("embedded-opentype"), url("../font/700b136771817c.woff") format("woff"), url("../font/700b136771817c.ttf") format("truetype"), url("../font/700b136771817c.svg") format("svg");
+}
 
 ol,
 ul {
@@ -133,7 +125,7 @@ html {
 body {
     font-size: 1rem;
     color: #222;
-    font-family: 'xh','F700b1', "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+    font-family: 'xh', 'F700b1', "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -186,6 +178,13 @@ body {
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
+@media screen and (max-width:900px) {
+    #header {
+        opacity: 1;
+        box-shadow: 0 0 0 0;
+    }
+}
+
 @media print {
     #header {
         display: none
@@ -211,7 +210,8 @@ body {
     #header-inner {
         -webkit-box-pack: center;
         -ms-flex-pack: center;
-        justify-content: center
+        justify-content: center;
+        padding: 0.5rem 0;
     }
 }
 
@@ -482,7 +482,6 @@ body {
     font-size: 18px;
     position: fixed;
 }
-
 
 @media screen and (min-width:900px) {
     #sidebar {
