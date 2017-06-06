@@ -6,4 +6,4 @@ sidebar: true
 about: true
 ---
 
-<img src="/image/lADOy50wn80N5s0W0Q_5841_3558.jpg">
+<img src="/image/大事.png">

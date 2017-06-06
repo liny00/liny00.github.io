@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "人才招聘"
+title: "诚聘英才"
 permalink: /contact/talent/
 sidebar: true
 contact: true
@@ -13,9 +13,8 @@ contact: true
 
 ## 申请流程
 
-简历投递邮箱：[hr@seqhealth.cn](hr@seqhealth.cn)
-
-招聘HR官方QQ：2101025386.
+* **简历投递邮箱**：[hr@seqhealth.cn](hr@seqhealth.cn)
+* **招聘HR官方QQ**：2101025386.
 
 ## 开放岗位
 

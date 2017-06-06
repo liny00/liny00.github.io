@@ -9,14 +9,14 @@ layout: default
                 <div class="inner">
                   {% for post in site.posts %}
                     <header>
-                        <h5 itemprop="name"><a class="post-title" href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>
+                        <h2 itemprop="name"><a class="post-title" href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>
                       <span class="pull-right"> 
                         <i class="fa fa-calendar"></i>
                           <time>
                             {{ post.date | date:'%A, %B %d, %Y'}}
                           </time>
                       </span>
-                      </h5>            
+                      </h2>           
                     </header>
                     <div class="article-content post-content" itemprop="articleBody">
                     {% if post.thumbnail %}

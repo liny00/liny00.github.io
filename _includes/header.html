@@ -1,87 +1,86 @@
 {% assign d = site.data %}
 <header id="header" class="navbar-fixed-top">
     <div id="header-inner" class="wrapper">
-            <a href="/"><img src="/image/LOGO-final.png" style="width: 10rem; height: 3.3rem;"></a>
+        <a href="/"><img src="/image/LOGO-final.png" style="padding-left: 1rem;"></a>
         <nav id="main-nav">
-        {% for item in d.menu %}
-        {% if item.name == "首页" %}
-            <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
+            {% for item in d.menu %} {% if item.name == "首页" %}
+            <div class="dropdown">
+              <a href="{{ item.link }}" class="main-nav-link">
                 {{ item.name }}
-            </a>
+              </a>
             </div>
-        {% elsif item.name == "关于康测" %}
-            <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
-                {{ item.name }}
-            </a>
-                <div class="dropdown-content">
-                {% for item in d.about.subtitle %}
-                    <div><a href="{{ item.link }}">{{ item.name }}</a></div>
-                {% endfor %}
-                </div>
-            </div>
-        {% elsif item.name == "科研服务" %}
-            <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
-                {{ item.name }}
-            </a>
-                <div class="dropdown-content" style="width: 580%; margin-left: -210%">
-                <div class="panal">
-                    <div class="subtitle"><a>{{ d.science.genome[0].submain }}</a></div>
-                    {% for item in d.science.genome[1].subtitle %}
-                    <div><a href="{{ item.link }}">{{ item.name }}</a></div>
-                    {% endfor %}
-                </div>
-                <div class="panal">
-                    <div class="subtitle"><a>{{ d.science.epigenetics[0].submain }}</a></div>
-                    {% for item in d.science.epigenetics[1].subtitle %}
-                    <div><a href="{{ item.link }}">{{ item.name }}</a></div>
-                    {% endfor %}
-                </div>
-                <div class="panal">
-                    <div class="subtitle"><a>{{ d.science.transcriptome[0].submain }}</a></div>
-                    {% for item in d.science.transcriptome[1].subtitle %}
-                    <div><a href="{{ item.link }}">{{ item.name }}</a></div>
-                    {% endfor %}
-                </div>
-                <div class="panal">
-                    <div class="subtitle"><a>{{ d.science.interactome[0].submain }}</a></div>
-                    {% for item in d.science.interactome[1].subtitle %}
-                    <div><a href="{{ item.link }}">{{ item.name }}</a></div>
-                    {% endfor %}
-                </div>
-                </div>
-            </div>
-        {% elsif item.name == "建库技术供应商" %}
-            <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
-                {{ item.name }}
-            </a>
-                <div class="dropdown-content" style="width: 100%;">
-                {% for item in d.medicine.subtitle %}
-                    <div><a href="{{ item.link }}">{{ item.name }}</a></div>
-                {% endfor %}
-                </div>
-            </div>
-        {% elsif item.name == "资讯中心" %}
+            {% elsif item.name == "关于康测" %}
             <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
                 {{ item.name }}
             </a>
                 <div class="dropdown-content">
-                {% for item in d.news.subtitle %}
-                    <div><a href="{{ item.link }}">{{ item.name }}</a></div>
-                {% endfor %}
+                    {% for item in d.about.subtitle %}
+                    <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
+                    {% endfor %}
                 </div>
             </div>
-        {% elsif item.name == "联系我们" %}
+            {% elsif item.name == "科研服务" %}
+            <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
+                {{ item.name }}
+            </a>
+                <div class="dropdown-content" style="width: 180%; margin-left: -40%">
+                    <div>
+                        <div class="popover-item subtitle"><a class="popover-link">{{ d.science.genome[0].submain }}</a></div>
+                        {% for item in d.science.genome[1].subtitle %}
+                        <div class="popover-item" ><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
+                        {% endfor %}
+                    </div>
+                    <div>
+                        <div class="popover-item subtitle"><a class="popover-link">{{ d.science.epigenetics[0].submain }}</a></div>
+                        {% for item in d.science.epigenetics[1].subtitle %}
+                        <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
+                        {% endfor %}
+                    </div>
+                    <div>
+                        <div class="popover-item subtitle"><a class="popover-link">{{ d.science.transcriptome[0].submain }}</a></div>
+                        {% for item in d.science.transcriptome[1].subtitle %}
+                        <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
+                        {% endfor %}
+                    </div>
+                    <div>
+                        <div class="popover-item subtitle"><a class="popover-link">{{ d.science.interactome[0].submain }}</a></div>
+                        {% for item in d.science.interactome[1].subtitle %}
+                        <div class="popover-item"><a class="popover-link"href="{{ item.link }}">{{ item.name }}</a></div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            {% elsif item.name == "建库技术供应商" %}
             <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
                 {{ item.name }}
             </a>
                 <div class="dropdown-content">
-                {% for item in d.contact.subtitle %}
-                    <div><a href="{{ item.link }}">{{ item.name }}</a></div>
-                {% endfor %}
+                    {% for item in d.medicine.subtitle %}
+                    <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
+                    {% endfor %}
                 </div>
             </div>
-        {% endif %}
-        {% endfor %}
+            {% elsif item.name == "资讯中心" %}
+            <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
+                {{ item.name }}
+            </a>
+                <div class="dropdown-content">
+                    {% for item in d.news.subtitle %}
+                    <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% elsif item.name == "联系我们" %}
+            <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
+                {{ item.name }}
+            </a>
+                <div class="dropdown-content">
+                    {% for item in d.contact.subtitle %}
+                    <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %} {% endfor %}
         </nav>
         <div id="lang-select-wrap">
             </label>

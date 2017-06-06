@@ -4,20 +4,16 @@ layout: default
 
 <div id="content-inner">
     {% include sidebar.html %}
-    <article class="article-container" itemscope itemtype="http://schema.org/Article">
-        <div class="article-inner">
-            <div class="article">
-                <div class="inner">
-                    <header class="article-header">
-                        <h1 class="article-title" itemprop="name"><strong>{{page.title}}<strong></h1>
-                    </header>
-                    <nav class="js-toc"></nav>
-                    <div class="article-content" itemprop="articleBody">
-                        {{ content }}
-                    </div>
-                </div>
-            </div>
+    <article class="article-container">
+      <div class="article">
+        <header class="article-header">
+          <h1 class="article-title" itemprop="name"><b>{{page.title}}</b></h1>
+        </header>
+        <nav class="js-toc"></nav>
+        <div class="article-content" itemprop="articleBody">
+          {{ content }}
         </div>
+      </div>
     </article>
 </div>
 <script src="/js/tocbot.js"></script>

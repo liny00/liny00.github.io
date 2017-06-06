@@ -3,8 +3,8 @@
 {% include head.html %}
 
 <body>
-    {% include header.html %}
     <div id="container">
+        {% include header.html %}
         {% include back_to_top.html %}
         <div id="content-wrap">
             <div id="content" class="wrapper">
@@ -14,24 +14,6 @@
         {% include footer.html %}
     </div>
     {% include mobile.html %}
-        <!-- Swiper JS -->
-    <script src="/js/swiper.min.js"></script>
-
-    <!-- Initialize Swiper -->
-    <script>
-    var swiper = new Swiper('.swiper-container', {
-        pagination: '.swiper-pagination',
-        paginationClickable: true,
-        nextButton: '.swiper-button-next',
-        prevButton: '.swiper-button-prev',
-        spaceBetween: 30,
-        keyboardControl: true,
-        effect: 'fade',
-        loop: true,
-        autoplay: 5000,
-        // autoplayDisableOnInteraction: false
-    });
-    </script>
 </body>
 
 </html>
