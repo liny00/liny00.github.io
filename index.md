@@ -74,7 +74,6 @@ body {font-family: Verdana,sans-serif;}
   .text {font-size: 11px}
 }
 </style>
-</head>
 <body>
 
 <div class="slideshow-container">
