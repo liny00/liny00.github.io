@@ -177,7 +177,7 @@ body {
 #content-wrap {
     background: #fff;
     min-height: 100%;
-    padding-bottom: 10rem;
+    padding-bottom: 11rem;
 }
 
 #header {
@@ -553,7 +553,7 @@ body {
         animation: intro 0.7s both;
         animation-delay: 0.1s;
         float: left;
-        width: 100%
+        width: 100%;
     }
 }
 

@@ -16,7 +16,7 @@ RIP-seq技术并不局限于miRNA与RBP的传统研究，近期有许多研究�
 
 * 研究细胞内RNA与蛋白的结合情况；
 * 绘制全基因组范围的 RNA 和RBP相互作用图谱，解析“Argonaute（Ago）—miRNA—mRNA”三者的相互作用；
-*发现 RBP 与miRNA、lncRNA等非编码RNA的相互作用网络与功能。
+* 发现 RBP 与miRNA、lncRNA等非编码RNA的相互作用网络与功能。
 
 ---
 
