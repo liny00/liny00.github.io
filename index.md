@@ -97,7 +97,6 @@ body {font-family: Verdana,sans-serif;}
 </div>
 
 </div>
-<br>
 
 <div style="text-align:center">
   <span class="dot"></span> 
@@ -126,7 +125,6 @@ function showSlides() {
     setTimeout(showSlides, 10000); // Change image every 2 seconds
 }
 </script>
-</div>
 <br>
 <div class="row home-panel-container" style="padding: 0 1rem;">
     <div class="home-panel col-sm-4">
@@ -163,6 +161,6 @@ function showSlides() {
       <div style="float: right;"><a href="/company/2016/07/26/aguriculture.html">more</a></div>
       <div><a href="/company/2016/07/26/aguriculture.html">农业部领导莅临康测调研指导</a></div>
       <div style="float: right;"><a href="/company/2016/07/15/AMP-tech-success.html">more</a></div>
-      <div>AMP技术研发成功</div>
+      <div><a href="/company/2016/07/15/AMP-tech-success.html">AMP技术研发成功</a></div>
     </div>
 </div>
