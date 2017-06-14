@@ -77,5 +77,5 @@ science: true
 
 <div><strong>参考文献：</strong></div>
 
-<div>Branco M R, King M, Perez-Garcia V, et al. Maternal DNA Methylation Regulates Early Trophoblast Development[J]. Developmental Cell, 2016, 36(2):152.</div>
+Branco M R, King M, Perez-Garcia V, et al. Maternal DNA Methylation Regulates Early Trophoblast Development[J]. Developmental Cell, 2016, 36(2):152.
 

@@ -16,7 +16,7 @@ epigenetics:
   - submain: "表观遗传学研究"
   - subtitle:
       - name: "全基因组甲基化测序"
-        link: "/science/methy_sequencing"
+        link: "/science/methy_sequencing/"
 
       # - name: "靶向甲基化测序"
       #   link: "/science/target_methy_sequencing/"
@@ -28,13 +28,13 @@ transcriptome:
   - submain: "转录组学研究"
   - subtitle:
       - name: "mRNA测序"
-        link: "/science/mRNA_sequencing"
+        link: "/science/mRNA_sequencing/"
 
       - name: "全转录组测序"
         link: "/science/transcriptome_sequencing/"
 
       - name: "small RNA测序"
-        link: "/science/small_RNA_sequencing"
+        link: "/science/small_RNA_sequencing/"
 
       - name: "circRNA测序"
         link: "/science/circRNA_sequencing/"
@@ -43,7 +43,7 @@ interactome:
   - submain: "互作组学研究"
   - subtitle:
       - name: "ChIP测序"
-        link: "/science/ChIP_sequencing"
+        link: "/science/ChIP_sequencing/"
 
       - name: "RIP测序"
         link: "/science/RIP_sequencing/"

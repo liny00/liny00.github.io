@@ -67,4 +67,5 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 <img src="/image/small_RNA_sequencing/small-seq-5.png">
 
 <div><strong>参考文献:</strong><div>
-<div>Zhang L, Zhang S, Yao J, et al. Microenvironment-induced PTEN loss by exosomal microRNA primes brain metastasis outgrowth[J]. Nature, 2015.</div>
+
+Zhang L, Zhang S, Yao J, et al. Microenvironment-induced PTEN loss by exosomal microRNA primes brain metastasis outgrowth[J]. Nature, 2015.

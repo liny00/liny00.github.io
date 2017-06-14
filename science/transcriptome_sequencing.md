@@ -80,4 +80,4 @@ science: true
 
 <div><strong>参考文献</strong></div>
 
-<div>Sun M, Gadad S, Kim D S, et al. Discovery, Annotation, and Functional Analysis of Long Noncoding RNAs Controlling Cell-Cycle Gene Expression and Proliferation in Breast Cancer Cells[J]. 2015, 59(4):698.</div>
+Sun M, Gadad S, Kim D S, et al. Discovery, Annotation, and Functional Analysis of Long Noncoding RNAs Controlling Cell-Cycle Gene Expression and Proliferation in Breast Cancer Cells[J]. 2015, 59(4):698.

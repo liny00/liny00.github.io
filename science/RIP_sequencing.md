@@ -87,4 +87,5 @@ RIP-seq鉴定了在果蝇和人类中，与 sm相关的三类RNA
 ---
 
 <div><strong>参考文献:</strong><div>
-<div>Zhipeng Lu, Xiaojun Guan et al. RIP-seq analysis of eukaryotic Sm proteins identifies three major categories of Sm-containing ribonucleoproteins[J]. Genome Biology 2014, 15:R7.</div>
+
+Zhipeng Lu, Xiaojun Guan et al. RIP-seq analysis of eukaryotic Sm proteins identifies three major categories of Sm-containing ribonucleoproteins[J]. Genome Biology 2014, 15:R7.

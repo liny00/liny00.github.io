@@ -52,4 +52,5 @@ science: true
 <p style="text-align: center; ">图2  circRNA序列的保守性</p>
 
 <div><strong>参考文献:</strong><div>
-<div>Rybak-Wolf A, Stottmeister C, Glažar P, et al. Circular RNAs in the mammalian brain are highly abundant, conserved, and dynamically expressed[J]. Molecular cell, 2015, 58(5): 870-885.</div>
+
+Rybak-Wolf A, Stottmeister C, Glažar P, et al. Circular RNAs in the mammalian brain are highly abundant, conserved, and dynamically expressed[J]. Molecular cell, 2015, 58(5): 870-885.

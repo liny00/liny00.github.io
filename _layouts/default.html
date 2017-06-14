@@ -4,16 +4,47 @@
 
 <body>
     <div id="container">
-        {% include header.html %}
-        {% include back_to_top.html %}
-        <div id="content-wrap">
-            <div id="content" class="wrapper">
-                {{ content }}
-            </div>
+        {% include header.html %} {% include back_to_top.html %}
+        <div id="content-wrap" class="wrapper">
+            {{ content }}
         </div>
         {% include footer.html %}
     </div>
     {% include mobile.html %}
+    <script src="/js/main-93b96d8a86.js"></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 100) {
+                $('#back-to-top').fadeIn();
+            } else {
+                $('#back-to-top').fadeOut();
+            }
+        });
+        $('#back-to-top').click(function() {
+            $('html, body').animate({
+                scrollTop: 0
+            }, 'slow');
+            return false;
+        });
+        var pathname = window.location.pathname;
+        $('.main-nav-link').each(function() {
+            if (pathname.indexOf($(this)[0].pathname) > -1) {
+                $('nav div a').removeClass("nav-active");
+                $(this).addClass("nav-active");
+            }
+        });
+
+        $('.sidebar-link').each(function() {
+            if (pathname == $(this)[0].pathname) {
+                $('.sidebar-link').removeClass("sidebar-active");
+                $(this).addClass("sidebar-active");
+            }
+        });
+    });
+    </script>
 </body>
 
 </html>

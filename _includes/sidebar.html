@@ -3,40 +3,40 @@
 	{% if page.about %}
 		<strong class="sidebar-title">{{ d.about.main }}</strong>
 		{% for item in d.about.subtitle %}
-    		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
     	{% endfor %}
 	{% elsif page.science %}
 		<div class="sidebar-title"><strong>{{ d.science.main }}</strong></div>
 		<div class="sidebar-sub-title"><strong>{{ d.science.genome[0].submain }}</strong></div>
 		{% for item in d.science.genome[1].subtitle %}
-    		<div><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div> 
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div> 
     	{% endfor %}
     	<strong class="sidebar-sub-title">{{ d.science.epigenetics[0].submain }}</strong>
 		{% for item in d.science.epigenetics[1].subtitle %}
-    		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
     	{% endfor %}
     	<strong class="sidebar-sub-title">{{ d.science.transcriptome[0].submain }}</strong>
 		{% for item in d.science.transcriptome[1].subtitle %}
-    		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
     	{% endfor %}
     	<strong class="sidebar-sub-title">{{ d.science.interactome[0].submain }}</strong>
 		{% for item in d.science.interactome[1].subtitle %}
-    		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
     	{% endfor %}
     {% elsif page.medicine %}
 		<strong class="sidebar-title">{{ d.medicine.main }}</strong>
 		{% for item in d.medicine.subtitle %}
-    		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
     	{% endfor %}
     {% elsif page.news %}
 		<strong class="sidebar-title">{{ d.news.main }}</strong>
 		{% for item in d.news.subtitle %}
-    		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
     	{% endfor %}
 	{% elsif page.contact %}
 		<strong class="sidebar-title">{{ d.contact.main }}</strong>
 		{% for item in d.contact.subtitle %}
-    		<a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a> 
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
     	{% endfor %}
 	{% endif %}
 </aside>

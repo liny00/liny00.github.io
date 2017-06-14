@@ -1,17 +1,14 @@
 main: "建库技术供应商"
 
 subtitle:
-  - name: "RNA专利建库"
+  - name: "KC-AMP建库"
     link: "/library_build/"
 
-  - name: "RNA靶向建库"
-    link: "/library_build/RNA_target/"
+  - name: "KC-SSMP建库"
+    link: "/library_build/KC_SSMP/"
 
-  - name: "DNA靶向建库"
-    link: "/library_build/DNA_target/"
+  - name: "KC-BS-seq建库"
+    link: "/library_build/KC_BS_seq/"
 
-  - name: "ctDNA建库"
-    link: "/library_build/ctDNA/"
-
-  - name: "ctDNA甲基化建库"
-    link: "/library_build/BS/"
+  - name: "KC-RNA靶向建库"
+    link: "/library_build/KC_RNA/"

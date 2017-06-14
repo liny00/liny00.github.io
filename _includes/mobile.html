@@ -28,7 +28,7 @@
         {% for item in d.science.interactome[1].subtitle %}
             <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> 
         {% endfor %}
-    {% elsif page.medicine %}
+        {% elsif page.medicine %}
         <strong class="mobile-nav-title">{{ d.medicine.main }}</strong>
         {% for item in d.medicine.subtitle %}
             <a href="{{ item.link }}" class="mobile-nav-link">{{ item.name }}</a> 
@@ -43,4 +43,3 @@
         </select>
     </div>
 </nav>
-<script src="/js/main-93b96d8a86.js"></script>

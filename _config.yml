@@ -13,6 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "http://www.seqhealth.cn/" # the base hostname & protocol for your site
 SSN: #公安备案号
 timezone: Asia/Shanghai
+js: "http://js.seqhealth.cn/"
+css: "http://css.seqhealth.cn/"
+images: "http://images.seqhealth.cn/"
 
 # Build settings
 markdown: kramdown

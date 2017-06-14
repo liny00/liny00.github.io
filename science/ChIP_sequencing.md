@@ -86,5 +86,5 @@ ChIP-seq是将染色质免疫共沉淀与高通量测序相结合的技术，通
 
 <div><strong>参考文献:</strong></div>
 
-<div>Li C, Qiao Z, Qi W, et al. Genome-wide characterization of cis-acting DNA targets reveals the transcriptional regulatory framework of opaque2 in maize.[J]. Plant Cell, 2015, 27(3):532.</div>
+Li C, Qiao Z, Qi W, et al. Genome-wide characterization of cis-acting DNA targets reveals the transcriptional regulatory framework of opaque2 in maize.[J]. Plant Cell, 2015, 27(3):532.
 

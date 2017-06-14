@@ -6,4 +6,4 @@ sidebar: true
 about: true
 ---
 
-<img src="/image/partner/合作单位.png">
+<img src="/image/合作单位.jpg">

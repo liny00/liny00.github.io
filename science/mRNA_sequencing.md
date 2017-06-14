@@ -83,5 +83,5 @@ angiotensin II 灌注的野生型小鼠心脏和angiotensin II 灌注的ATF3KO�
 ---
 
 <div><strong>参考文献：</strong></div>
-<div>Li Y, Li Z, Zhang C, et al. Cardiac Fibroblast-Specific Activating Transcription Factor 3 Protects Against Heart Failure by Suppressing MAP2K3-p38 Signaling[J]. Circulation, 2017.</div>
+Li Y, Li Z, Zhang C, et al. Cardiac Fibroblast-Specific Activating Transcription Factor 3 Protects Against Heart Failure by Suppressing MAP2K3-p38 Signaling[J]. Circulation, 2017.
 

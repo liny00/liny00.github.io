@@ -76,4 +76,4 @@ science: true
 
 <div><strong>参考文献:</strong></div>
 
-<div>Kanagalshamanna R, Portier B P, Singh R R, et al. Next-generation sequencing-based multi-gene mutation profiling of solid tumors using fine needle aspiration samples: promises and challenges for routine clinical diagnostics[J]. Modern Pathology, 2014, 27(2):314.</div>
+Kanagalshamanna R, Portier B P, Singh R R, et al. Next-generation sequencing-based multi-gene mutation profiling of solid tumors using fine needle aspiration samples: promises and challenges for routine clinical diagnostics[J]. Modern Pathology, 2014, 27(2):314.

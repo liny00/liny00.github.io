@@ -74,4 +74,4 @@ science: true
 
 <div><strong>参考文献:</strong></div>
 
-<div>Shain A H, Garrido M, Botton T, et al. Exome sequencing of desmoplastic melanoma identifies recurrent NFKBIE promoter mutations and diverse activating mutations in the MAPK pathway[J]. Nature Genetics, 2015, 47(10):1194-9.</div>
+Shain A H, Garrido M, Botton T, et al. Exome sequencing of desmoplastic melanoma identifies recurrent NFKBIE promoter mutations and diverse activating mutations in the MAPK pathway[J]. Nature Genetics, 2015, 47(10):1194-9.

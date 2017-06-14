@@ -80,4 +80,4 @@ mRNA测序发现，TERT基因重排（黄色）、MYCN基因扩增（红色）�
 
 <div><strong>参考文献:</strong></div>
 
-<div>Peifer M, Hertwig F, Roels F, et al. Telomerase activation by genomic rearrangements in high-risk neuroblastoma.[J]. Nature, 2015, 526(7575):700-4.</div>
+Peifer M, Hertwig F, Roels F, et al. Telomerase activation by genomic rearrangements in high-risk neuroblastoma.[J]. Nature, 2015, 526(7575):700-4.
