@@ -14,7 +14,7 @@
 
 ### 2.更新操作
 
-每次修改网站本地内容后，需要将内容推送到云端进行更新。更新工具是git-cola
+每次修改网站本地内容后，需要将内容推送到云端进行更新。更新工具是git-cola，公司网站在本地文件夹`liny00.github.io`，所有下文提到的内容在里面都可以找到。
 
 #### 修改网站前：
 
@@ -42,11 +42,9 @@
 - link: "图片文件名称"
 - pos: "新同事所在的部门"
 ```
-3.保存后，按照更新操作推送，网站即可更新。
+3. 保存后，按照更新操作推送，网站即可更新。
 
 ### 建库技术供应商
-
-#### 新建文件
 
 1. 新建立一个文件，文件命名方式是`建库技术名称.md`(英文)
 2. 填写内容如下
@@ -57,9 +55,57 @@ title: "建库技术名称"
 permalink: /library_build/建库技术名字.md
 sidebar: true
 medicine: true
----
+--- 
+
+```
+main: "建库技术供应商"
+
+subtitle:
+  - name: "KC-AMP建库"
+    link: "/library_build/"
+
+  - name: "KC-SSMP建库"
+    link: "/library_build/KC_SSMP/"
+
+  - name: "KC-BS-seq建库"
+    link: "/library_build/KC_BS_seq/"
+
+  - name: "KC-RNA靶向建库"
+    link: "/library_build/KC_RNA/"
+
 ``` 
-3. 然后按照Markdown格式，对内容进行编写。
->注：可以参考科技服务部分的文件对内容进行填写。
+4. 然后按照Markdown格式，对内容进行编写。
+>注：可以参考科技服务部分的文件对内容进行填写。**Markdown格式必须要学习**!!!
+
+### 科技服务与建库技术图片更新
+
+举例：`<img class="fig70" src="/image/exon_sequencing/workflow.png">`
+
+1. 在`image`文件夹下，找到对应科技服务部分名字的图片文件夹
+2. 添加，删除，修改里面的图片。如果添加新图片插入`举例`部分的代码，如果调整图片大小，`fig70`表示70%原图大小，`fig60`表示60%原图大小，以此类推。`src`部分填入当前图片的路径，保存后即可添加成功。
 
 
+### 公司网页导航栏更新
+
+1. 在`_data/`文件夹下寻找`menu.yml`文件，添加如下内容。
+
+```
+- name: "首页"
+  link: "/"
+
+- name: "关于康测"
+  link: "/about/"
+
+- name: "科研服务"
+  link: "/science/"
+
+- name: "建库技术供应商"
+  link: "/library_build/"
+
+- name: "资讯中心"
+  link: "/news/"
+
+- name: "联系我们"
+  link: "/contact/"
+```
+2. 按照上述格式加入导航栏的名称与网页链接，保存即可。
