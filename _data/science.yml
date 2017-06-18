@@ -9,7 +9,7 @@ genome:
       - name: "外显子组测序"
         link: "/science/exon_sequencing/"
 
-      - name: "靶向测序"
+      - name: "DNA靶向测序"
         link: "/science/target_sequencing/"
 
 epigenetics:

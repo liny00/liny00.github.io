@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "转录组测序（Transcriptome Sequencing）"
+title: "全转录组测序（Transcriptome Sequencing）"
 permalink: /science/transcriptome_sequencing/
 sidebar: true
 science: true

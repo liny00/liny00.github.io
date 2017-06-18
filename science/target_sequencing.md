@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "靶向测序（Target Region Sequencing）"
+title: "DNA靶向测序（DNA Target Region Sequencing）"
 permalink: /science/target_sequencing/
 sidebar: true
 science: true

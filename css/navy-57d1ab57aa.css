@@ -156,13 +156,14 @@ body {
 #content-wrap {
     background: #fff;
     min-height: 100%;
-    padding-bottom: 8.5rem;
+    padding-bottom: 9rem;
 }
 
 #header {
     background: white;
     opacity: 0.9;
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 3px rgba(0, 0, 0, 0.2);
+
 }
 
 @media screen and (max-width:900px) {
@@ -232,7 +233,7 @@ body {
 .main-nav-link:hover {
     opacity: 1;
     color: #075E04;
-    font-weight: 700;
+    transform: scale(1.05);
 }
 
 .nav-active {
@@ -367,6 +368,7 @@ body {
     float: left;
     width: 100%;
     padding: 0 1rem;
+    padding-bottom: 1rem;
     border-left: 1px solid #eee;
 }
 
@@ -804,6 +806,7 @@ a.article-title:hover {
     bottom: 40px;
     left: 0;
     right: 0;
+    font-size: 1rem;
     -webkit-overflow-scrolling: touch
 }
 
@@ -967,8 +970,11 @@ a.article-title:hover {
 
 #footer {
     padding-top: 1rem;
-    background: #f4f4f4;
-    margin-top: -8.5em;
-    min-height: 8.5em;
+    background: white;
+    margin-top: -9em;
+    min-height: 9em;
     position: relative;
+    -webkit-filter: drop-shadow(0 0 3px rgba(0, 0, 0, .1));
+    -moz-filter: drop-shadow(0 0 3px rgba(0, 0, 0, .1));
+    filter: drop-shadow(0 0 3px rgba(0, 0, 0, .1));
 }
