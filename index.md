@@ -15,7 +15,7 @@ layout: default
 		</div>
 		<div class="circRNA_sequencing">
 			<h2 class="intro-title">circRNA测序</h2>
-			<p class="intro-content">环状RNA（circular RNA，circRNA）是最近发现的一类特殊的非编码RNA，它大量存在于真核细胞胞质内，主要由pre-mRNA在可变剪接的过程中，将上游exon的5’端与下游exon的3’端剪接到一起，从而形成的首尾相接的环状RNA分子通过可变剪切加工产生。近年研究发现，circRNA具有很多重要的调控功能，例如，circRNA可以作为竞争性内源RNA（competing endogenous RNA，ceRNA）结合胞内miRNA，阻断miRNA对其靶基因的抑制作用。除此以外，circRNA也具有调控其他类型RNA、调节蛋白质活性等功能。</p>
+			<p class="intro-content">环状RNA（circular RNA，circRNA）是最近发现的一类特殊的非编码RNA，它大量存在于真核细胞胞质内，主要由pre-mRNA在可变剪接的过程中，将上游exon的5’端与下游exon的3’端剪接到一起，从而形成的首尾相接的环状RNA分子通过可变剪切加工产生。近年研究发现，circRNA具有很多重要的调控功能，例如，circRNA可以作为竞争性内源RNA（competing endogenous RNA，ceRNA）结合胞内miRNA，阻断miRNA对其靶基因的抑制作用。</p>
 			<div class="intro-button"><a href="/science/circRNA_sequencing/">继续阅读</a></div>
 		</div>
 		<div class="small_RNA_sequencing">

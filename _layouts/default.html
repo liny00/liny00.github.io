@@ -13,9 +13,9 @@
     {% include mobile.html %}
     <script src="/js/d3.min.js"></script>
     <script type="text/javascript">
-    var class_svg = "classic-svg";
-    var word = ["全基因组重测序", "circRNA测序", "smallRNA测序", "外显子组测序", "ChIP测序", "全转录组测序", "mRNA测序", "RIP测序"];
-    var id = ["resequencing", "circRNA_sequencing", "small_RNA_sequencing", "exon_sequencing", "ChIP_sequencing", "transcriptome_sequencing", "mRNA_sequencing", "RIP_sequencing"];
+    // var class_svg = "classic-svg";
+    // var word = ["全基因组重测序", "circRNA测序", "smallRNA测序", "外显子组测序", "ChIP测序", "全转录组测序", "mRNA测序", "RIP测序"];
+    // var id = ["resequencing", "circRNA_sequencing", "small_RNA_sequencing", "exon_sequencing", "ChIP_sequencing", "transcriptome_sequencing", "mRNA_sequencing", "RIP_sequencing"];
     // var holder = d3.select("svg")
     //     .attr('preserveAspectRatio', "xMinYMin meet")
     //     .attr("class", class_svg)
@@ -178,7 +178,7 @@
             d3.selectAll("rect")
             .attr("class", "rectangle-box");
             d3.select(this)
-            .attr("class", "rectangle-box rect-active");
+            .classed("rect-active", true);
             var id = d3.select(this).attr("id");
             d3.selectAll("div").each(function(){
                 d3.select(this).classed("show-intro", false);
