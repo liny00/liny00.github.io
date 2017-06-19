@@ -394,13 +394,39 @@
         padding: 1rem;
         max-width: 398px;
         text-align: center;
-        transition: all 0.4s ease;
     }
     
     .show-intro {
         display: block;
         opacity: 1;
-        transition: all 0.4s ease;
+        animation: showOff 0.4s ease;
+    }
+    
+    @-webkit-keyframes showOff {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+    
+    @-moz-keyframes showOff {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @keyframes showOff {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
     }
     
     .intro-title {
