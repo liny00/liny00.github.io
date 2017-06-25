@@ -8,4 +8,4 @@ contact: true
 
 <!-- baidu map -->
 
-<div style="float: left;"><img src="/image/map.png"></div>
+<div style="float: left;"><img src="/image/map.jpg"></div>
