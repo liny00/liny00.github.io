@@ -1,8 +1,0 @@
-- name: "全基因组重测序"
-  link: "/science/resequencing"
-
-- name: "外显子组测序"
-  link: "/science/exon_sequencing/"
-
-- name: "靶向测序"
-  link: "/science/target_sequencing/"

@@ -11,168 +11,9 @@
         {% include footer.html %}
     </div>
     {% include mobile.html %}
+    <!-- Homepage Main Image Showcase -->
     <script src="/js/d3.min.js"></script>
     <script type="text/javascript">
-    // var class_svg = "classic-svg";
-    // var word = ["全基因组重测序", "circRNA测序", "smallRNA测序", "外显子组测序", "ChIP测序", "全转录组测序", "mRNA测序", "RIP测序"];
-    // var id = ["resequencing", "circRNA_sequencing", "small_RNA_sequencing", "exon_sequencing", "ChIP_sequencing", "transcriptome_sequencing", "mRNA_sequencing", "RIP_sequencing"];
-    // var holder = d3.select("svg")
-    //     .attr('preserveAspectRatio', "xMinYMin meet")
-    //     .attr("class", class_svg)
-    //     .attr("viewBox", "0 0 770 372");
-
-    // holder.append("rect")
-    //     .attr("id", id[0])
-    //     .attr("class", "rectangle-box rect-active")
-    //     .attr("x", 20)
-    //     .attr("y", 195)
-    //     .attr("height", 35)
-    //     .attr("width", 100)
-    //     .attr("rx", 1)
-    //     .attr("ry", 1);
-
-    // holder.append("text")
-    //     .attr("x", 70)
-    //     .attr("y", 217)
-    //     .style("fill", "black")
-    //     .style("font-size", "0.8rem")
-    //     .attr("text-anchor", "middle")
-    //     .style("pointer-events", "none")
-    //     .text(word[0]);
-
-    // holder.append("rect")
-    //     .attr("id", id[1])
-    //     .attr("class", "rectangle-box")
-    //     .attr("x", 125)
-    //     .attr("y", 195)
-    //     .attr("height", 35)
-    //     .attr("width", 80)
-    //     .attr("rx", 1)
-    //     .attr("ry", 1);
-
-    // holder.append("text")
-    //     .attr("x", 165)
-    //     .attr("y", 217)
-    //     .style("fill", "black")
-    //     .style("font-size", "0.8rem")
-    //     .attr("text-anchor", "middle")
-    //     .style("pointer-events", "none")
-    //     .text(word[1]);
-
-    // holder.append("rect")
-    //     .attr("id", id[2])
-    //     .attr("class", "rectangle-box")
-    //     .attr("x", 210)
-    //     .attr("y", 195)
-    //     .attr("height", 35)
-    //     .attr("width", 90)
-    //     .attr("rx", 1)
-    //     .attr("ry", 1);
-
-    // holder.append("text")
-    //     .attr("x", 255)
-    //     .attr("y", 217)
-    //     .style("fill", "black")
-    //     .style("font-size", "0.8rem")
-    //     .attr("text-anchor", "middle")
-    //     .style("pointer-events", "none")
-    //     .text(word[2]);
-
-    // holder.append("rect")
-    //     .attr("id", id[3])
-    //     .attr("class", "rectangle-box")
-    //     .attr("x", 305)
-    //     .attr("y", 195)
-    //     .attr("height", 35)
-    //     .attr("width", 90)
-    //     .attr("rx", 1)
-    //     .attr("ry", 1);
-
-    // holder.append("text")
-    //     .attr("x", 350)
-    //     .attr("y", 217)
-    //     .style("fill", "black")
-    //     .style("font-size", "0.8rem")
-    //     .attr("text-anchor", "middle")
-    //     .style("pointer-events", "none")
-    //     .text(word[3]);
-
-    // holder.append("rect")
-    //     .attr("id", id[4])
-    //     .attr("class", "rectangle-box")
-    //     .attr("x", 400)
-    //     .attr("y", 195)
-    //     .attr("height", 35)
-    //     .attr("width", 70)
-    //     .attr("rx", 1)
-    //     .attr("ry", 1);
-
-    // holder.append("text")
-    //     .attr("x", 435)
-    //     .attr("y", 217)
-    //     .style("fill", "black")
-    //     .style("font-size", "0.8rem")
-    //     .attr("text-anchor", "middle")
-    //     .style("pointer-events", "none")
-    //     .text(word[4]);
-
-    // holder.append("rect")
-    //     .attr("id", id[5])
-    //     .attr("class", "rectangle-box")
-    //     .attr("x", 475)
-    //     .attr("y", 195)
-    //     .attr("height", 35)
-    //     .attr("width", 90)
-    //     .attr("rx", 1)
-    //     .attr("ry", 1);
-
-    // holder.append("text")
-    //     .attr("x", 520)
-    //     .attr("y", 217)
-    //     .style("fill", "black")
-    //     .style("font-size", "0.8rem")
-    //     .attr("text-anchor", "middle")
-    //     .style("pointer-events", "none")
-    //     .text(word[5]);
-
-    // holder.append("rect")
-    //     .attr("id", id[6])
-    //     .attr("class", "rectangle-box")
-    //     .attr("x", 570)
-    //     .attr("y", 195)
-    //     .attr("height", 35)
-    //     .attr("width", 80)
-    //     .attr("rx", 1)
-    //     .attr("ry", 1);
-
-    // holder.append("text")
-    //     .attr("x", 610)
-    //     .attr("y", 217)
-    //     .style("fill", "black")
-    //     .style("font-size", "0.8rem")
-    //     .attr("text-anchor", "middle")
-    //     .style("pointer-events", "none")
-    //     .text(word[6]);
-
-    // holder.append("rect")
-    //     .attr("id", id[7])
-    //     .attr("class", "rectangle-box")
-    //     .attr("x", 660)
-    //     .attr("y", 195)
-    //     .attr("height", 35)
-    //     .attr("width", 60)
-    //     .attr("rx", 1)
-    //     .attr("ry", 1);
-
-    // holder.append("text")
-    //     .attr("x", 690)
-    //     .attr("y", 217)
-    //     .style("fill", "black")
-    //     .style("font-size", "0.8rem")
-    //     .attr("text-anchor", "middle")
-    //     .style("pointer-events", "none")
-    //     .text(word[7]);
-
     d3.selectAll("rect").each(function(){
         d3.select(this).on("click", function(){
             d3.selectAll("rect")
@@ -189,7 +30,7 @@
         });
     })
     </script>
-    <script src="/js/main-93b96d8a86.js"></script>
+    <script src="/js/main.js"></script>
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script type="text/javascript">
