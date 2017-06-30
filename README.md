@@ -12,6 +12,42 @@
 
 本地运行环境搭建，查看[Jekyll on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 
+```
+.
+├── about 	#关于公司
+├── contact	#联系方式
+├── css		#CSS代码
+├── _data	#导航栏，侧栏自动生成数据
+├── image	#公司图片（文件夹名称和内容部分一一对应）
+│   ├── ChIP_sequencing
+│   ├── circRNA_sequencing
+│   ├── exon_sequencing
+│   ├── home
+│   ├── library_build
+│   │   ├── KC-AMP
+│   │   ├── KC-BS
+│   │   ├── KC_RNA
+│   │   └── SSMP
+│   ├── methy_sequencing
+│   ├── mRNA_sequencing
+│   ├── news	#公司新闻
+│   │   ├── 2016
+│   │   └── 2017
+│   ├── resequencing
+│   ├── RIP_sequencing
+│   ├── small_RNA_sequencing
+│   ├── target_sequencing
+│   ├── team
+│   └── transcriptome_sequencing
+├── _includes	#每个部分的插入代码
+├── js		#javascript代码
+├── _layouts	#布局分类
+├── library_build	#建库技术部分
+├── _posts	#咨询部分
+└── science	#科技服务部分
+
+```
+
 ### 2.更新操作
 
 每次修改网站本地内容后，需要将内容推送到云端进行更新。更新工具是git-cola，公司网站在本地文件夹`liny00.github.io`，所有下文提到的内容在里面都可以找到。
