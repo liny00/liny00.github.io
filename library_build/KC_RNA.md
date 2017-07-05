@@ -41,7 +41,7 @@ medicine: true
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序reads在全基因组的分布情况比较。
 
 ### 3.Reads在基因上的分布均一性比较
-<img class="fig80" src="/image/library_build/KC_RNA/3.png">
+<img class="fig70" src="/image/library_build/KC_RNA/3.png">
 
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序reads在基因body的分布情况比较。
 

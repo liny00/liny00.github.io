@@ -26,7 +26,7 @@ medicine: true
 1%突变精准测出的保障。KC-AMP技术能够保证1%以上的低频突变不漏检，是一种高灵敏度的检测方法。其建库步骤为首先通过建库试剂盒在片段化的DNA两端加上建库通用接头，随后进行两轮单端锚定的巢式PCR完成建库。KC-AMP技术原理如下：
 
 ## KC-AMP技术原理图
-<img class="fig50" src="/image/library_build/KC-AMP/KC_AMP-建库原理.jpg">
+<img class="fig40" class="fig50" src="/image/library_build/KC-AMP/KC_AMP-建库原理.jpg">
 ## 技术优势
 KC-AMP技术比杂交捕获和多重PCR技术更有优势。与基于捕获的靶向测序产品相比，我们的优势在于价格低（与Ampliseq类似），建库速度快（1天之内完成建库），个性化程度高（可以满足客户个性化的需求，客户具备自行设计的能力）。
 
@@ -39,15 +39,15 @@ KC-AMP技术比杂交捕获和多重PCR技术更有优势。与基于捕获的�
 
 ### 1.测序深度
 
-<img src="/image/library_build/KC-AMP/KC-AMP-4.png">
+<img class="fig30" src="/image/library_build/KC-AMP/KC-AMP-4.png">
 
 上图为靶向外显子区域reads的平均覆盖度，当平均测序深度在800X时，约40%的区域的测序深度在500-1100X。
 
 ### 2.基因上靶率
 
-<img src="/image/library_build/KC-AMP/KC-AMP-5.png">
+<img class="fig70" src="/image/library_build/KC-AMP/KC-AMP-5.png">
 
-<img src="/image/library_build/KC-AMP/KC-AMP-6.png">
+<img class="fig70" src="/image/library_build/KC-AMP/KC-AMP-6.png">
 
 上图为ABL1和SMO基因测序结果，利用不同起始量DNA建库，目标区域均上靶。
 
