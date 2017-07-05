@@ -66,7 +66,7 @@
   link: "xiehudie"
   pos: "生产部"
 
-  name: "阚奇"
+- name: "阚奇"
   link: "kanqi"
   pos: "生产部"
 
@@ -74,7 +74,7 @@
   link: "zhanghongli"
   pos: "生产部"
 
-  name: "王敏"
+- name: "王敏"
   link: "wangmin"
   pos: "生产部"
 
