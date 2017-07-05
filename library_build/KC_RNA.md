@@ -49,7 +49,7 @@ medicine: true
 
 ### 4.RPKM值的比较
 
-<img src="/image/library_build/KC_RNA/5.png">
+<img src="/image/library_build/KC_RNA/4.png">
 
 
 
@@ -72,7 +72,8 @@ medicine: true
 
 
 ### 5.样本相关性分析
- <img src="/image/library_build/KC_RNA/6.png>
+ <img src="/image/library_build/KC_RNA/5.png">
+
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库测序的相关性分析，两种建库方法的生物学重复的皮尔逊相关系数R达到0.99。
 
 ## 产品服务
