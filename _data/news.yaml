@@ -6,3 +6,6 @@ subtitle:
 
   - name: "行业动态"
     link: "/field/"
+
+  - name: "技术支持"
+    link: "/support/"
