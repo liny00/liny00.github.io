@@ -20,16 +20,16 @@ medicine: true
 * 在cDNA片段5’端利用splint ligation方法加上通用建库接头；
 * 以获得的cDNA为模板，加入上、下游通用引物进行PCR扩增获得RNA文库。
 
-<img src="/image/library_build/KC_RNA/rna建库原理.png">
 
-## RNA建库技术
-
+## RNA建库技术原理
+<img class="fig50" src="/image/library_build/KC_RNA/rna建库原理.png">
 ## 技术优势
-
+<img class="fig50" src="/image/library_build/KC_RNA/1.png">
 ## 数据质量
 
 ### 1.测序质量汇总比较
-<img class="fig50" src="/image/library_build/KC_RNA/1.png">
+
+<img src="/image/library_build/KC_RNA/0.png">
 
 上表为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序质量汇总比较。</p>         
 
@@ -41,34 +41,16 @@ medicine: true
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序reads在全基因组的分布情况比较。
 
 ### 3.Reads在基因上的分布均一性比较
-<img src="/image/library_build/KC_RNA/3.png">
+<img class="fig80" src="/image/library_build/KC_RNA/3.png">
 
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序reads在基因body的分布情况比较。
-
-
 
 ### 4.RPKM值的比较
 
 <img src="/image/library_build/KC_RNA/4.png">
 
 
-
-
-
-
-
-
-
-
-
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库测序的PRKM值比较。
-
-
-
-
-
-
-
 
 
 ### 5.样本相关性分析
