@@ -20,52 +20,36 @@ medicine: true
 * 在cDNA片段5’端利用splint ligation方法加上通用建库接头；
 * 以获得的cDNA为模板，加入上、下游通用引物进行PCR扩增获得RNA文库。
 
+<img src="/image/library_build/KC_RNA/rna建库原理.png">
+
 ## RNA建库技术
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 技术优势
-
-
 
 ## 数据质量
 
 ### 1.测序质量汇总比较
+<img src="/image/library_build/KC_RNA/1.png">
+
+上表为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序质量汇总比较。</p>         
 
 
-上表为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序质量汇总比较。
 
 ### 2.reads在全基因组的分布情况比较
-
+<img src="/image/library_build/KC_RNA/2.png">
 
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序reads在全基因组的分布情况比较。
 
 ### 3.Reads在基因上的分布均一性比较
+<img src="/image/library_build/KC_RNA/3.png">
+
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序reads在基因body的分布情况比较。
 
 
 
 ### 4.RPKM值的比较
 
-
-
-
-
-
+<img src="/image/library_build/KC_RNA/5.png">
 
 
 
@@ -88,7 +72,7 @@ medicine: true
 
 
 ### 5.样本相关性分析
- 
+ <img src="/image/library_build/KC_RNA/6.png>
 上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库测序的相关性分析，两种建库方法的生物学重复的皮尔逊相关系数R达到0.99。
 
 ## 产品服务
