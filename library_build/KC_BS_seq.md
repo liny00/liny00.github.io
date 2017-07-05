@@ -16,7 +16,7 @@ medicine: true
 
 ## KC-BS建库技术原理
 
-
+<img src="/image/library_build/KC-BS/KC_BS-seq建库原理.png">
 
 
 ## 技术优势

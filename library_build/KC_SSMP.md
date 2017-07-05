@@ -17,7 +17,7 @@ medicine: true
 0.01%突变精准测出的保障。KC-SSMP技术主要是利用NGS对ctDNA进行检测的高精准度检测分析技术，通过高精准度靶向富集方案及分子标签DNA序列比对确认的信息分析纠错方法，可将测序背景误差下降了1000倍，有效实现超高测序深度（>10000X）下低频变检（检出限0.01%）的精准检出。下图为KC-SSMP技术原理图。
 
 ## KC-SSMP技术原理图
-
+<img src="/image/library_build/SSMP/KC-SSMP建库原理.jpg">
 
 ## 技术优势
 
@@ -30,33 +30,21 @@ KC-SSMP技术同时具备CAPP-seq和多重PCR的技术优势，同时避开了�
 
 KC-SSMP与CAPP-seq和多重PCR的技术对比如下：
 
-
+<img src="/image/library_build/SSMP/KC-SSMP-2.png">
 
 ## 建库质量
 
 ### 1.测序深度
-
-
-
-
-
-
-
-
-
+<img src="/image/library_build/SSMP/KC-SSMP-3.png">
 
 
 上图为靶向外显子区域reads的平均覆盖度，当平均测序深度在7000X时，约50%的区域的测序深度在6000-8000X。
 
 ### 2.基因上靶率
 
+<img src="/image/library_build/SSMP/KC-SSMP-4.png">
 
-
-
-
-
-
-
+<img src="/image/library_build/SSMP/KC-SSMP-5.png">
 
 上图为EGFR和TP53基因测序结果，利用不同起始量DNA建库，目标区域均上靶。
 
@@ -72,5 +60,4 @@ KC-SSMP与CAPP-seq和多重PCR的技术对比如下：
 
 * 提供专利保护的建库试剂盒以及根据客户提供目的区域定制的多重PCR引物，客户可自行进行实验操作；
 * 本试剂盒在Life/illumina平台均适用；
-* 本产品检测灵敏度0.01%，起始DNA量低至10ng。 
-
+* 本产品检测灵敏度0.01%，起始DNA量低至10ng。

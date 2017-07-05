@@ -22,9 +22,9 @@ medicine: true
 
 
 ## RNA建库技术原理
-<img class="fig50" src="/image/library_build/KC_RNA/rna建库原理.png">
+<img class="fig40" src="/image/library_build/KC_RNA/rna建库原理.png">
 ## 技术优势
-<img class="fig50" src="/image/library_build/KC_RNA/1.png">
+<img src="/image/library_build/KC_RNA/1.png">
 ## 数据质量
 
 ### 1.测序质量汇总比较
