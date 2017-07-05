@@ -29,7 +29,7 @@ medicine: true
 ## 数据质量
 
 ### 1.测序质量汇总比较
-<img src="/image/library_build/KC_RNA/1.png">
+<img class="fig50" src="/image/library_build/KC_RNA/1.png">
 
 上表为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序质量汇总比较。</p>         
 
