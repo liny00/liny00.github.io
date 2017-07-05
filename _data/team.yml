@@ -44,11 +44,11 @@
 
 - name: "张富昌"
   link: "zhangfuchang"
-  pos: "研发部"
+  pos: "开发部"
 
 - name: "郑亚标"
   link: "zhengyabiao"
-  pos: "研发部"
+  pos: "开发部"
 
 - name: "蒋菁菁"
   link: "jiangjingjing"
@@ -66,8 +66,16 @@
   link: "xiehudie"
   pos: "生产部"
 
+  name: "阚奇"
+  link: "kanqi"
+  pos: "生产部"
+
 - name: "张红莉"
   link: "zhanghongli"
+  pos: "生产部"
+
+  name: "王敏"
+  link: "wangmin"
   pos: "生产部"
 
 - name: "陈慧"
