@@ -31,32 +31,32 @@ medicine: true
 
 <img src="/image/library_build/KC_RNA/0.png">
 
-上表为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序质量汇总比较。</p>         
+上表为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库的测序质量汇总比较。</p>         
 
 
 
 ### 2.reads在全基因组的分布情况比较
 <img class="fig30" src="/image/library_build/KC_RNA/2.png">
 
-上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序reads在全基因组的分布情况比较。
+上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库的测序reads在全基因组的分布情况比较。
 
 ### 3.Reads在基因上的分布均一性比较
 <img class="fig70" src="/image/library_build/KC_RNA/3.png">
 
-上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库的测序reads在基因body的分布情况比较。
+上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库的测序reads在基因body的分布情况比较。
 
 ### 4.RPKM值的比较
 
 <img class="fig40" src="/image/library_build/KC_RNA/4.png">
 
 
-上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库测序的PRKM值比较。
+上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库测序的PRKM值比较。
 
 
 ### 5.样本相关性分析
  <img class="fig40" src="/image/library_build/KC_RNA/5.png">
 
-上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术600ng RNA起始量进行建库测序的相关性分析，两种建库方法的生物学重复的皮尔逊相关系数R达到0.99。
+上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库测序的相关性分析，两种建库方法的生物学重复的皮尔逊相关系数R达到0.99。
 
 ## 产品服务
 
