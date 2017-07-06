@@ -30,22 +30,17 @@ science: true
 <img src="/image/target_sequencing/snp基因及功能注释结果.png">
 <p style="text-align: center; ">SNPs基因及功能注释</p>
 
----
-
 <img src="/image/target_sequencing/circos.png">
 <p style="text-align: center; ">融合基因 Circos图</p>
 
----
 
 <img src="/image/target_sequencing/kegg.png">
 <p style="text-align: center; ">变异基因KEGG通路分类图</p>
 
----
 
 <img src="/image/target_sequencing/Transfic.png">
 <p style="text-align: center; ">Transfic预测驱动基因统计</p>
 
----
 
 <img src="/image/target_sequencing/Transfic_SNP.png">
 <p style="text-align: center; ">Transfic预测驱动基因SNP位点统计</p>

@@ -30,27 +30,17 @@ ChIP-seq是将染色质免疫共沉淀与高通量测序相结合的技术，通
 <img src="/image/ChIP_sequencing/ChIP1Peak.jpg">
 <p style="text-align: center; ">Peak在基因组各功能区的分布</p>         
 
----
-
 <img src="/image/ChIP_sequencing/c.png">              
 <p style="text-align: center; ">差异结合分析</p>
-
----
 
 <img src="/image/ChIP_sequencing/ChIPgo.jpg">
 <p style="text-align: center; ">Peak相关基因的GO分析</p>
 
----
-
 <img src="/image/ChIP_sequencing/kegg.png">
 <p style="text-align: center; ">peak 关联基因的KEGG 富集分析</p>
 
----
-
 <img src="/image/ChIP_sequencing/b.png">
 <p style="text-align: center; ">Peak相关基因的KEGG信号通路富集分析</p>
-
----
 
 <img src="/image/ChIP_sequencing/a.png">
 <p style="text-align: center; ">Peak的Motif分析</p>
@@ -87,4 +77,3 @@ ChIP-seq是将染色质免疫共沉淀与高通量测序相结合的技术，通
 <div><strong>参考文献:</strong></div>
 
 Li C, Qiao Z, Qi W, et al. Genome-wide characterization of cis-acting DNA targets reveals the transcriptional regulatory framework of opaque2 in maize.[J]. Plant Cell, 2015, 27(3):532.
-

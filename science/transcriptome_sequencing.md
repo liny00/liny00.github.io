@@ -29,22 +29,16 @@ science: true
 <img src="/image/transcriptome_sequencing/b.png">
 <p style="text-align: center; ">蛋白互作网络分析</p>
 
----
-
 <img src="/image/transcriptome_sequencing/c.png">
 <p style="text-align: center; ">表达量密度图</p>
-
----
 
 <img src="/image/transcriptome_sequencing/d.png">
 <p style="text-align: center; ">差异基因表达聚类分析</p>
 
----
 
 <img src="/image/transcriptome_sequencing/IncRNA_chromosome.png">
 <p style="text-align: center; ">lncRNA在染色体上的分布情况</p>
 
----
 
 <img src="/image/transcriptome_sequencing/lncRNA_diff_exp.png">
 <p style="text-align: center; ">lncRNA差异表达分析火山图</p>

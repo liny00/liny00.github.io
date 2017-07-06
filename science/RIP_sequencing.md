@@ -49,7 +49,7 @@ RIP-seq技术并不局限于miRNA与RBP的传统研究，近期有许多研究�
 
 <img src="/image/RIP_sequencing/RIP-go.png">
 <p style="text-align: center; ">Peak相关基因的GO分析</p>
- 
+
 
 <img src="/image/RIP_sequencing/RIP5kegg.jpg">
 <p style="text-align: center; ">Peak相关基因的KEGG信号通路富集分析</p>
@@ -75,7 +75,7 @@ RIP-seq技术并不局限于miRNA与RBP的传统研究，近期有许多研究�
 <p style="text-align: center; "><img src="/image/RIP_sequencing/rip文献.png"></p>
 
 Sm蛋白是在真核、原核、无细胞生物中均存在的一类高度保守的RNA结合蛋白家族。在真核生物中，多聚体Sm蛋白与其相关的RNA共同组成核糖核蛋白（RNP）复合物，在多方面对基因的表达调控产生重要影响。文章作者通过RIP-seq技术对果蝇卵巢细胞和人体细胞中与Sm蛋白相互作用的RNA进行了分析鉴定。发现了3类Sm蛋白相关的转录本，即小核RNA（snRNA），小Cajal体RNA（scaRNA）以及mRNA。它们之间的相互作用既广泛存在又具有组织特异性，其中Sm蛋白与mRNA的互作是由小核核糖核蛋白（snRNP）介导的，介导机制之一为碱基配对。作者还发现，Sm蛋白相关的mRNA为成熟mRNA，证明SmRNP具有独立的RNA剪接功能。
-        
+
 <p style="text-align: center; "><img src="/image/RIP_sequencing/rip-2.png"></p>
 
 RIP-seq鉴定了在果蝇和人类中，与 sm相关的三类RNA

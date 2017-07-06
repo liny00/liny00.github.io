@@ -33,17 +33,14 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 <img src="/image/small_RNA_sequencing/差异基因聚类分析.png">
 <p style="text-align: center; ">差异基因聚类分析</p>
 
----
 
 <img src="/image/small_RNA_sequencing/功能基因富集分析.png">
 <p style="text-align: center; ">功能基因富集分析</p>
 
----
 
 <img src="/image/small_RNA_sequencing/d.png">
 <p style="text-align: center; ">二级结构预测</p>
 
----
 
 ## 康测技术优势
 

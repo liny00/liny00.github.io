@@ -30,27 +30,17 @@ mRNA由DNA转录而来，携带相应的遗传讯息，为下一步翻译成蛋�
 <img class="fig50" src="/image/mRNA_sequencing/alt_splicing_stat.png">
 <p style="text-align: center; ">可变剪接事件统计</p>
 
----
-
 <img class="fig50" src="/image/mRNA_sequencing/表达量分布箱型图.png">
 <p style="text-align: center; ">表达量分布箱型图</p>
-
----
 
 <img  class="fig50" src="/image/mRNA_sequencing/diff_expression_gene.png">
 <p style="text-align: center; ">差异表达基因筛选</p>
 
----
-
 <img src="/image/mRNA_sequencing/diff_gene_kegg.png">
 <p style="text-align: center; ">差异基因KEGG 代谢通路图</p>
 
----
-
 <img src="/image/mRNA_sequencing/diff_exp_gene_kegg_patyway.png">
 <p style="text-align: center; ">差异表达基因 KEGG pathway富集分析</p>
-
----
 
 ## 康测技术优势
 
