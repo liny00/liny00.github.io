@@ -27,7 +27,7 @@ mRNA由DNA转录而来，携带相应的遗传讯息，为下一步翻译成蛋�
 
 ## 分析结果展示
 
-<img src="/image/mRNA_sequencing/alt_splicing_stat.png">
+<img class="fig50" src="/image/mRNA_sequencing/alt_splicing_stat.png">
 <p style="text-align: center; ">可变剪接事件统计</p>
 
 ---
@@ -37,7 +37,7 @@ mRNA由DNA转录而来，携带相应的遗传讯息，为下一步翻译成蛋�
 
 ---
 
-<img src="/image/mRNA_sequencing/diff_expression_gene.png">
+<img  class="fig50" src="/image/mRNA_sequencing/diff_expression_gene.png">
 <p style="text-align: center; ">差异表达基因筛选</p>
 
 ---
@@ -54,7 +54,7 @@ mRNA由DNA转录而来，携带相应的遗传讯息，为下一步翻译成蛋�
 
 ## 康测技术优势
 
-* 低至600 ng总RNA起始量建库
+* 低至200 ng总RNA起始量建库
 * 可对LncRNA的PolyA进行鉴定和差异表达分析
 * 可对GSEA，可变剪接，RNA编辑，可变PolyA位点等进行个性化分析
 
@@ -72,7 +72,7 @@ mRNA由DNA转录而来，携带相应的遗传讯息，为下一步翻译成蛋�
 
 通过RNA-seq找到高表达的转录因子ATF3： 在三组差异表达基因和重复的转录因子相关基因中，发现ATF3是一致性的高表达，且与ATF3 mRNA表达水平一致。
 
-<img src="/image/mRNA_sequencing/mRNA-seq-3.png">
+<img class="fig80" src="/image/mRNA_sequencing/mRNA-seq-3.png">
 
 angiotensin II 灌注的野生型小鼠心脏和angiotensin II 灌注的ATF3KO型小鼠心脏进行RNA-seq，发现701个上调基因和468个下调基因，差异表达基因的通路分析揭示上调的信号通路与高血压型心室重构密切相关。
 
@@ -84,4 +84,3 @@ angiotensin II 灌注的野生型小鼠心脏和angiotensin II 灌注的ATF3KO�
 
 <div><strong>参考文献：</strong></div>
 Li Y, Li Z, Zhang C, et al. Cardiac Fibroblast-Specific Activating Transcription Factor 3 Protects Against Heart Failure by Suppressing MAP2K3-p38 Signaling[J]. Circulation, 2017.
-

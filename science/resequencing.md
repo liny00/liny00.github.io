@@ -41,7 +41,7 @@ science: true
 
 <br>
 
-<img src="/image/resequencing/示例信号通路800.jpg">
+<img class="fig60" src="/image/resequencing/示例信号通路800.jpg">
 <p style="text-align: center; ">示例信号通路</p>
 
 <br>
