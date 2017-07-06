@@ -26,7 +26,7 @@ medicine: true
 1%突变精准测出的保障。KC-AMP技术能够保证1%以上的低频突变不漏检，是一种高灵敏度的检测方法。其建库步骤为首先通过建库试剂盒在片段化的DNA两端加上建库通用接头，随后进行两轮单端锚定的巢式PCR完成建库。KC-AMP技术原理如下：
 
 ## KC-AMP技术原理图
-<img class="fig40" class="fig50" src="/image/library_build/KC-AMP/KC_AMP-建库原理.jpg">
+<img class="fig40" src="/image/library_build/KC-AMP/KC_AMP-建库原理.jpg">
 ## 技术优势
 KC-AMP技术比杂交捕获和多重PCR技术更有优势。与基于捕获的靶向测序产品相比，我们的优势在于价格低（与Ampliseq类似），建库速度快（1天之内完成建库），个性化程度高（可以满足客户个性化的需求，客户具备自行设计的能力）。
 
