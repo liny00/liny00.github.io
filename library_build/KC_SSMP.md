@@ -12,12 +12,18 @@ medicine: true
 
 目前，ctDNA检测的常规方法有ARMS-PCR，BEAMing和ddPCR等，但是这些方法存在检测敏感性不足或者检测位点过少等缺陷，导致在科研和临床上的使用受到了一定的限制。NGS技术能够一次性的对多个靶向基因和位点进行平行检测，可准确检出突变丰度在0.01-0.1%以上的突变，是一种检测ctDNA更为有效的方法。
 
+---
+
 ## KC-SSMP技术
 
 0.01%突变精准测出的保障。KC-SSMP技术主要是利用NGS对ctDNA进行检测的高精准度检测分析技术，通过高精准度靶向富集方案及分子标签DNA序列比对确认的信息分析纠错方法，可将测序背景误差下降了1000倍，有效实现超高测序深度（>10000X）下低频变检（检出限0.01%）的精准检出。下图为KC-SSMP技术原理图。
 
+---
+
 ## KC-SSMP技术原理图
 <img class="fig30" src="/image/library_build/SSMP/KC-SSMP建库原理.jpg">
+
+---
 
 ## 技术优势
 
@@ -31,6 +37,8 @@ KC-SSMP技术同时具备CAPP-seq和多重PCR的技术优势，同时避开了�
 KC-SSMP与CAPP-seq和多重PCR的技术对比如下：
 
 <img src="/image/library_build/SSMP/KC-SSMP-2.png">
+
+---
 
 ## 建库质量
 
@@ -47,6 +55,8 @@ KC-SSMP与CAPP-seq和多重PCR的技术对比如下：
 <img  class="fig70" src="/image/library_build/SSMP/KC-SSMP-5.png">
 
 上图为EGFR和TP53基因测序结果，利用不同起始量DNA建库，目标区域均上靶。
+
+---
 
 ## 产品服务
 
