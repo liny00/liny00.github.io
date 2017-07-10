@@ -15,7 +15,7 @@ mRNA由DNA转录而来，携带相应的遗传讯息，为下一步翻译成蛋�
 
 ## 建库方法
 
-<img src="/image/mRNA_sequencing/new建库原理图-rna测序.jpg">
+<img class="fig30" src="/image/mRNA_sequencing/new建库原理图-rna测序.jpg">
 
 ---
 
@@ -29,15 +29,19 @@ mRNA由DNA转录而来，携带相应的遗传讯息，为下一步翻译成蛋�
 
 <img class="fig50" src="/image/mRNA_sequencing/alt_splicing_stat.png">
 <p style="text-align: center; ">可变剪接事件统计</p>
+<br />
 
 <img class="fig50" src="/image/mRNA_sequencing/表达量分布箱型图.png">
 <p style="text-align: center; ">表达量分布箱型图</p>
+<br />
 
 <img  class="fig50" src="/image/mRNA_sequencing/diff_expression_gene.png">
 <p style="text-align: center; ">差异表达基因筛选</p>
+<br />
 
 <img src="/image/mRNA_sequencing/diff_gene_kegg.png">
 <p style="text-align: center; ">差异基因KEGG 代谢通路图</p>
+<br />
 
 <img src="/image/mRNA_sequencing/diff_exp_gene_kegg_patyway.png">
 <p style="text-align: center; ">差异表达基因 KEGG pathway富集分析</p>

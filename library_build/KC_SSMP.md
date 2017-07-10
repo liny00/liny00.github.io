@@ -52,6 +52,7 @@ KC-SSMP与CAPP-seq和多重PCR的技术对比如下：
 
 <img  class="fig70" src="/image/library_build/SSMP/KC-SSMP-4.png">
 
+
 <img  class="fig70" src="/image/library_build/SSMP/KC-SSMP-5.png">
 
 上图为EGFR和TP53基因测序结果，利用不同起始量DNA建库，目标区域均上靶。

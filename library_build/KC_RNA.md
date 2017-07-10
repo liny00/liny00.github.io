@@ -40,30 +40,30 @@ medicine: true
 
 <img src="/image/library_build/KC_RNA/0.png">
 
-上表为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库的测序质量汇总比较。</p>         
+上表为KC-RNA建库技术2.5ug RNA和200ng RNA起始量进行建库的测序质量汇总比较。（raw_reads：原始序列总数；Q30(%)：计算过滤后序列中碱基质量大于0的碱基所占的比例；clean_reads：过滤后序列总数；total mapped：比对到参考基因组上的序列总数；unique mapped：在参考序列上有唯一比对位置的序列数目；unmapped Reads：未能比对到参考序列上的序列数目。）</p>         
 
 
 
 ### 2.reads在全基因组的分布情况比较
 <img class="fig30" src="/image/library_build/KC_RNA/2.png">
 
-上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库的测序reads在全基因组的分布情况比较。
+上图为KC-RNA建库技术2.5ug RNA和200ng RNA起始量进行建库测序reads在全基因组的分布情况比较。（横轴代表各样品，纵轴表示对应区域序列比例，正常情况下，CDS（编码区）的序列百分比含量最高。）
 
 ### 3.Reads在基因上的分布均一性比较
 <img class="fig70" src="/image/library_build/KC_RNA/3.png">
 
-上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库的测序reads在基因body的分布情况比较。
+上图为KC-RNA建库技术2.5ug RNA和200ng RNA起始量进行建库的测序reads在基因body的分布情况比较。（横轴为单个基因的碱基长度的百分比，0表示基因的5’端，100表示基因的3’端；纵轴为覆盖深度。测序所得序列在基因上均匀分布，无明显的5’端或3’端偏向性。）
 
 ### 4.RPKM值的比较
 
 <img class="fig40" src="/image/library_build/KC_RNA/4.png">
 
-上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库测序的PRKM值比较。
+上图为KC-RNA建库技术2.5ug RNA和200ng RNA起始量进行建库测序的PRKM值比较。（RPKM指每百万reads中来自于某基因每千碱基长度的reads数，用于衡量基因表达量。）
 
 ### 5.样本相关性分析
  <img class="fig40" src="/image/library_build/KC_RNA/5.png">
 
-上图为普通商品化建库试剂盒2.5ug RNA和KC-RNA建库技术200ng RNA起始量进行建库测序的相关性分析，两种建库方法的生物学重复的皮尔逊相关系数R达到0.99。
+上图为KC-RNA建库技术2.5ug RNA和200ng RNA起始量进行建库测序的相关性分析。（两组样品的生物学重复的皮尔逊相关系数R达到0.99。R越接近1，表明样品表达模式相似度越高。）
 
 ---
 
