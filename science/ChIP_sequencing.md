@@ -15,7 +15,7 @@ ChIP-seq是将染色质免疫共沉淀与高通量测序相结合的技术，通
 
 ## 建库方法
 
-<img src="/image/ChIP_sequencing/new建库原理图-ChIP测序.jpg">
+<img class="fig30" src="/image/ChIP_sequencing/new建库原理图-ChIP测序.jpg">
 
 ---
 
@@ -27,22 +27,27 @@ ChIP-seq是将染色质免疫共沉淀与高通量测序相结合的技术，通
 
 ## 部分结果展示
 
-<img src="/image/ChIP_sequencing/ChIP1Peak.jpg">
+<img class="fig60" src="/image/ChIP_sequencing/ChIP1Peak.jpg">
 <p style="text-align: center; ">Peak在基因组各功能区的分布</p>         
+<br />
 
-<img src="/image/ChIP_sequencing/c.png">              
+<img class="fig50" src="/image/ChIP_sequencing/c.png">              
 <p style="text-align: center; ">差异结合分析</p>
+<br />
 
-<img src="/image/ChIP_sequencing/ChIPgo.jpg">
+<img class="fig50" src="/image/ChIP_sequencing/ChIPgo.jpg">
 <p style="text-align: center; ">Peak相关基因的GO分析</p>
+<br />
 
-<img src="/image/ChIP_sequencing/kegg.png">
+<img class="fig50" src="/image/ChIP_sequencing/kegg.png">
 <p style="text-align: center; ">peak 关联基因的KEGG 富集分析</p>
+<br />
 
-<img src="/image/ChIP_sequencing/b.png">
+<img class="fig50" src="/image/ChIP_sequencing/b.png">
 <p style="text-align: center; ">Peak相关基因的KEGG信号通路富集分析</p>
+<br />
 
-<img src="/image/ChIP_sequencing/a.png">
+<img class="fig60" src="/image/ChIP_sequencing/a.png">
 <p style="text-align: center; ">Peak的Motif分析</p>
 
 ---
@@ -63,13 +68,13 @@ ChIP-seq是将染色质免疫共沉淀与高通量测序相结合的技术，通
 
 转录因子Opaque2(O2)在玉米胚乳的发育过程中扮演者重要的角色，它可作用于基因的启动区，调控基因的转录 (O2)发生突变可大幅提高玉米中赖氨酸含量，从而提高其营养价值，但也带来一些不利的影响。本研究采用RNA-seq技术从转录水平分析O2突变前后，玉米基因表达的变化，发现了1065个与营养存储、氮元素新陈代谢、非生物胁迫抗性相关的差异表达基因，和383个差异表达的长非编码RNA；同时采用ChIP-seq技术从全基因组水平研究O2的DNA结合情况，发现了1143个基因上的1686个O2结合位点。综合RNA-seq和ChIP-seq的结果，作者鉴定出了35个由O2直接调控的基因和4种结合基序，其中TGACGTGG是最为保守、结合最强的基序；O2直接调控除了16kD和18kD以外的所有玉米醇溶蛋白（Zein）的表达。作者构建了O2的层级调控模型，进一步揭示了O2的多种生物功能。
 
-<img src="/image/ChIP_sequencing/ChIP-2.png">
+<img class="fig70" src="/image/ChIP_sequencing/ChIP-2.png">
 
 <p style="text-align: center; ">（A）在玉米基因组中O2结合位点的分布情况，（B）外显子区域O2的结合峰分布，（C）基因转录起始位点（TSS）上下游区域O2的结合峰分布：O2的结合位点集中于TSS上游300bp以内，（D）RNA-seq和ChIP-seq结果的维恩图：O2调控35个基因表达上调、4个基因表达下调。</p>
 
 ---
 
-<img src="/image/ChIP_sequencing/ChIP-3.png">
+<img class="fig50" src="/image/ChIP_sequencing/ChIP-3.png">
 <p style="text-align: center; ">O2的motif分析</p>
 
 ---
