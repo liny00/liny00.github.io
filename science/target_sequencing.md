@@ -15,7 +15,7 @@ science: true
 
 ## 建库方法
 
-<img src="/image/target_sequencing/new建库原理图-靶向测序.jpg">
+<img class="fig30" src="/image/target_sequencing/new建库原理图-靶向测序.jpg">
 
 ---
 
@@ -27,20 +27,21 @@ science: true
 
 ## 分析结果展示
 
-<img src="/image/target_sequencing/snp基因及功能注释结果.png">
+<img class="fig70" src="/image/target_sequencing/snp基因及功能注释结果.png">
 <p style="text-align: center; ">SNPs基因及功能注释</p>
+</br>
 
 <img src="/image/target_sequencing/circos.png">
 <p style="text-align: center; ">融合基因 Circos图</p>
-
+</br>
 
 <img src="/image/target_sequencing/kegg.png">
 <p style="text-align: center; ">变异基因KEGG通路分类图</p>
-
+</br>
 
 <img src="/image/target_sequencing/Transfic.png">
 <p style="text-align: center; ">Transfic预测驱动基因统计</p>
-
+</br>
 
 <img src="/image/target_sequencing/Transfic_SNP.png">
 <p style="text-align: center; ">Transfic预测驱动基因SNP位点统计</p>

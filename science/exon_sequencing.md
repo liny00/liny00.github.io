@@ -28,14 +28,15 @@ science: true
 
 <img src="/image/exon_sequencing/3.png">
 <p style="text-align: center; ">样品间拷贝数变异分布图</p>
-
+</br>
 
 <img src="/image/exon_sequencing/GO.png">
 <p style="text-align: center; ">样品间KEGG通路汇总比较</p>
+</br>
 
-<img src="/image/exon_sequencing/c.png">
+<img class="fig50" src="/image/exon_sequencing/c.png">
 <p style="text-align: center; ">家族遗传病连锁分析结果</p>
-
+</br>
 
 <img class="fig50" src="/image/exon_sequencing/d.png">
 <p style="text-align: center; ">单倍型重构结果</p>

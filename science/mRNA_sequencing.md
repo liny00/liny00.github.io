@@ -66,7 +66,7 @@ mRNA由DNA转录而来，携带相应的遗传讯息，为下一步翻译成蛋�
 
 通过RNA-seq找到高表达的转录因子ATF3： 在三组差异表达基因和重复的转录因子相关基因中，发现ATF3是一致性的高表达，且与ATF3 mRNA表达水平一致。
 
-<img class="fig80" src="/image/mRNA_sequencing/mRNA-seq-3.png">
+<img class="fig70" src="/image/mRNA_sequencing/mRNA-seq-3.png">
 
 angiotensin II 灌注的野生型小鼠心脏和angiotensin II 灌注的ATF3KO型小鼠心脏进行RNA-seq，发现701个上调基因和468个下调基因，差异表达基因的通路分析揭示上调的信号通路与高血压型心室重构密切相关。
 
