@@ -18,7 +18,7 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 
 ## 建库方法
 
-<img src="/image/small_RNA_sequencing/new建库原理图-smallrna测序.jpg">
+<img  class="fig40" src="/image/small_RNA_sequencing/new建库原理图-smallrna测序.jpg">
 
 ---
 
@@ -30,15 +30,15 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 
 ## 分析结果展示
 
-<img src="/image/small_RNA_sequencing/差异基因聚类分析.png">
+<img class="fig70" src="/image/small_RNA_sequencing/差异基因聚类分析.png">
 <p style="text-align: center; ">差异基因聚类分析</p>
+<br />
 
-
-<img src="/image/small_RNA_sequencing/功能基因富集分析.png">
+<img class="fig60" src="/image/small_RNA_sequencing/功能基因富集分析.png">
 <p style="text-align: center; ">功能基因富集分析</p>
+<br />
 
-
-<img src="/image/small_RNA_sequencing/d.png">
+<img class="fig60" src="/image/small_RNA_sequencing/d.png">
 <p style="text-align: center; ">二级结构预测</p>
 
 
@@ -61,7 +61,7 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 
 通过胎盘组织、胎儿脐带血、母亲血清、父亲血清、未怀孕对照血清中的microRNA表达谱进行聚类分析发现，胎盘和胎儿脐带血的microRNA表达谱最为接近，其次是胎盘和母亲血液，而父亲和对照组的聚类关系最远。
 
-<img src="/image/small_RNA_sequencing/small-seq-5.png">
+<img class="fig40" src="/image/small_RNA_sequencing/small-seq-5.png">
 
 <div><strong>参考文献:</strong><div>
 

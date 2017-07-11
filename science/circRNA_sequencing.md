@@ -16,7 +16,7 @@ science: true
 
 ## 建库方法
 
-<img src="/image/circRNA_sequencing/400new建库原理图-circRNA 测序.jpg">
+<img class="fig30" src="/image/circRNA_sequencing/400new建库原理图-circRNA 测序.jpg">
 
 ---
 
@@ -28,13 +28,16 @@ science: true
 
 ## 分析结果展示
 
-<img src="/image/circRNA_sequencing/a.png">
-<img src="/image/circRNA_sequencing/c.png">
-<p style="text-align: center; ">差异表达基因GO分析差异表达基因 Pathway 富集分析散点图</p>
-
-<img src="/image/circRNA_sequencing/b.png">
+<img class="fig40" src="/image/circRNA_sequencing/a.png">
 <p style="text-align: center; ">circRNA 表达分布图</p>
+<br />
 
+<img class="fig40" src="/image/circRNA_sequencing/b.png">
+<p style="text-align: center; ">差异表达基因GO分析</p>
+<br />
+
+<img class="fig50" src="/image/circRNA_sequencing/c.png">
+<p style="text-align: center; ">差异表达基因 Pathway 富集分析散点图</p>
 
 ## 康测技术优势
 * 低至10ug RNA的建库起始量

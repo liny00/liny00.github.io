@@ -47,7 +47,7 @@ ChIP-seq是将染色质免疫共沉淀与高通量测序相结合的技术，通
 <p style="text-align: center; ">Peak相关基因的KEGG信号通路富集分析</p>
 <br />
 
-<img class="fig60" src="/image/ChIP_sequencing/a.png">
+<img class="fig50" src="/image/ChIP_sequencing/a.png">
 <p style="text-align: center; ">Peak的Motif分析</p>
 
 ---

@@ -14,7 +14,7 @@ science: true
 
 ## 建库方法
 
-<img src="/image/transcriptome_sequencing/400new建库原理图-转录组测序.png">
+<img class="fig30" src="/image/transcriptome_sequencing/400new建库原理图-转录组测序.png">
 
 ---
 
@@ -26,21 +26,23 @@ science: true
 
 ## 分析结果展示
 
-<img src="/image/transcriptome_sequencing/b.png">
+<img class="fig50" src="/image/transcriptome_sequencing/b.png">
 <p style="text-align: center; ">蛋白互作网络分析</p>
+<br />
 
-<img src="/image/transcriptome_sequencing/c.png">
+<img class="fig50"  src="/image/transcriptome_sequencing/c.png">
 <p style="text-align: center; ">表达量密度图</p>
+<br />
 
-<img src="/image/transcriptome_sequencing/d.png">
+<img class="fig50"  src="/image/transcriptome_sequencing/d.png">
 <p style="text-align: center; ">差异基因表达聚类分析</p>
+<br />
 
-
-<img src="/image/transcriptome_sequencing/IncRNA_chromosome.png">
+<img class="fig50"  src="/image/transcriptome_sequencing/IncRNA_chromosome.png">
 <p style="text-align: center; ">lncRNA在染色体上的分布情况</p>
+<br />
 
-
-<img src="/image/transcriptome_sequencing/lncRNA_diff_exp.png">
+<img class="fig40"  src="/image/transcriptome_sequencing/lncRNA_diff_exp.png">
 <p style="text-align: center; ">lncRNA差异表达分析火山图</p>
 
 ---
