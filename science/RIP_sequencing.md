@@ -36,24 +36,23 @@ RIP-seq技术并不局限于miRNA与RBP的传统研究，近期有许多研究�
 
 <img class="fig60" src="/image/RIP_sequencing/RIP1Peak.png">
 <p style="text-align: center; ">Peak在基因组各功能区的分布</p>                    
+<br />
 
 <img class="fig50" src="/image/RIP_sequencing/RIP2Peak.png">
 <p style="text-align: center; ">Peak在TSS上下游的分布</p>
+<br />
 
 <img class="fig40" src="/image/RIP_sequencing/RIP3.png">
 <p style="text-align: center; ">样品聚类分析</p>           
-
-<p style="text-align: center; "><img class="fig40" src="/image/RIP_sequencing/workflow.png"></p>
-<p style="text-align: center; ">差异结合分析</p>
-
+<br />
 
 <img class="fig50" src="/image/RIP_sequencing/RIP-go.png">
 <p style="text-align: center; ">Peak相关基因的GO分析</p>
-
+<br />
 
 <img src="/image/RIP_sequencing/RIP5kegg.jpg">
 <p style="text-align: center; ">Peak相关基因的KEGG信号通路富集分析</p>
-
+<br />
 
 <img class="fig60" src="/image/RIP_sequencing/RIP7.motif.png">
 <p style="text-align: center; ">Peak的motif分析</p>
