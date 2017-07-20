@@ -17,7 +17,7 @@
 ├── about 	#关于公司
 ├── contact	#联系方式
 ├── css		#CSS代码
-├── _data	#导航栏，侧栏自动生成数据
+├── _data	#导航栏 and 侧栏自动生成数据
 ├── image	#公司图片（文件夹名称和内容部分一一对应）
 │   ├── ChIP_sequencing
 │   ├── circRNA_sequencing
@@ -44,8 +44,18 @@
 ├── _layouts	#布局分类
 ├── library_build	#建库技术部分
 ├── _posts	#咨询部分
-└── science	#科技服务部分
+└── science	#科技服务部分 
+company.md 
+field.md
+index.md
+news.md
 
+```
+
+How to generate _site from source codes with Jekyll?
+
+```
+jekyll serve
 ```
 
 每一个文件夹下面有一个`README.md`文件，这个文件可以帮助理清每个文件夹里面所有的内容。
@@ -53,6 +63,9 @@
 ### 2.更新操作
 
 每次修改网站本地内容后，需要将内容推送到云端进行更新。更新工具是git-cola，公司网站在本地文件夹`liny00.github.io`，所有下文提到的内容在里面都可以找到。
+
+### How to config on github and Aliyun?
+
 
 #### 修改网站前：
 
