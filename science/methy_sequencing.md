@@ -31,13 +31,13 @@ science: true
 <p style="text-align: center; ">基因上下游甲基化分布情况</p>
 
 <img src="/image/methy_sequencing/b.png">
-<p style="text-align: center; ">甲基化在不同基因区域中的分布情况</p>
-
-<img src="/image/methy_sequencing/c.png">
 <p style="text-align: center; ">Motif分析</p>
 
-<img src="/image/methy_sequencing/d.png">
+<img src="/image/methy_sequencing/c.png">
 <p style="text-align: center; ">差异甲基化基因的GO分类</p>
+
+<img src="/image/methy_sequencing/d.png">
+<p style="text-align: center; ">甲基化在不同基因区域中的分布情况</p>
 
 ## 康测技术优势
 
