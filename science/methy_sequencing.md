@@ -65,8 +65,6 @@ science: true
 
 进一步对杂合子组和对照组的差异甲基化区域进行分析，寻找到35个差异甲基化区域与差异表达基因如Scml2、Dst、Plcb4、Stk10密切相关，其中Scml2是上调最明显的基因，在Scml2的转录起始位点（TSS）、CpG岛（CGI）处发生明显的去甲基化。图中绿色区域为差异甲基化区域。
 
----
-
 <div><strong>参考文献：</strong></div>
 
 Branco M R, King M, Perez-Garcia V, et al. Maternal DNA Methylation Regulates Early Trophoblast Development[J]. Developmental Cell, 2016, 36(2):152.
