@@ -4,7 +4,7 @@ title: "三代测序之PacBio SMRT技术全解析"
 date: 2017-05-15 21:29:40 +0800
 thumbnail: ../image/field/2017-PacBio-SMRT/1.png
 description: "测序技术在近几年中又有里程碑的发展，Pacific Biosciences公司成功推出商业化的第三代测序仪平台，让三代测序正式走入我们的视线。与前两代相比，第三代测序有什么不同呢？我们就来详细了解测序界新宠-PacBio SMRT测序平台。"
-categories: company
+categories: field
 sidebar: true
 news: true
 ---
