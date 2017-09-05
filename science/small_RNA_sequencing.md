@@ -30,17 +30,18 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 
 ## 分析结果展示
 
-<img class="fig70" src="/image/small_RNA_sequencing/差异基因聚类分析.png">
-<p style="text-align: center; ">差异基因聚类分析</p>
+<p style="text-align: center; "><img class="fig70" src="/image/small_RNA_sequencing/Small RNA长度分布统计.png">
+<p style="text-align: center; ">Small RNA长度分布统计</p>
+
+<p style="text-align: center; "><img class="fig60" src="/image/small_RNA_sequencing/miRNA各位点碱基偏好.png">
+<p style="text-align: center; ">miRNA各位点碱基偏好</p>
+
+<p style="text-align: center; "><img class="fig60" src="/image/small_RNA_sequencing/差异表达火山图.png">
+<p style="text-align: center; ">差异表达火山图</p>
+
+<p style="text-align: center; "><img class="fig60" src="/image/small_RNA_sequencing/差异表达聚类分析.png">
+<p style="text-align: center; ">差异表达聚类分析</p>
 <br />
-
-<img class="fig60" src="/image/small_RNA_sequencing/功能基因富集分析.png">
-<p style="text-align: center; ">功能基因富集分析</p>
-<br />
-
-<img class="fig60" src="/image/small_RNA_sequencing/d.png">
-<p style="text-align: center; ">二级结构预测</p>
-
 
 ## 康测技术优势
 
@@ -52,7 +53,7 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 
 ## 案例解析
 
-<img src="/image/small_RNA_sequencing/smallRNA文献.png">
+<img src="/image/small_RNA_sequencing/small-seq-3.png">
 
 在这项研究中，作者对健康未孕人群、孕妇的血清和血浆样本及胎儿脐带血、胎盘组织样本进行microRNA测序，分析microRNA图谱，寻找母体和胎儿血液中循环microRNA和胎盘microRNA之间的联系。根据microRNA图谱可区分怀孕和未孕人群，并为孕期疾病（如子痫前期）的诊断提供依据。分析胎盘特异表达的microRNA变体还可追溯胎盘组织的来源。
 在孕妇血液和胎儿脐带血、胎盘组织中，mir-498、mir-127、mir-134的含量显著高于未怀孕妇女和孩子父亲血液中的含量，这三种microRNA与怀孕相关，其中mir-498在胎盘中的含量远远高于孕妇血液和胎儿脐带血中的含量，它是一种胎盘特异性的microRNA，由胎盘释放进入母体和胎儿。
@@ -65,4 +66,4 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 
 <div><strong>参考文献:</strong><div>
 
-Zhang L, Zhang S, Yao J, et al. Microenvironment-induced PTEN loss by exosomal microRNA primes brain metastasis outgrowth[J]. Nature, 2015.
+Williams Z, Bendov I Z, Elias R, et al. Comprehensive profiling of circulating microRNA via small RNA sequencing of cDNA libraries reveals biomarker potential and limitations.[J]. Proc Natl Acad Sci U S A, 2013, 110(11):4255-60.

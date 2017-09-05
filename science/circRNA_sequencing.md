@@ -39,21 +39,26 @@ science: true
 <img class="fig50" src="/image/circRNA_sequencing/c.png">
 <p style="text-align: center; ">差异表达基因 Pathway 富集分析散点图</p>
 
+---
+
 ## 康测技术优势
 * 低至10ug RNA的建库起始量
 * 采用链特异性建库方法，能更好鉴定circRNA的正反链来源
 * 能对miRNA结合位点进行鉴定
 
+---
+
 ## 案例解析
 
+<img src="/image/circRNA_sequencing/circRNA-seq-0.png">
 
-<img src="/image/circRNA_sequencing/circRNA测序文献.png">
+环状RNA（circRNA）是一类广泛存在于真核生物中的内源性RNA，可能在基因表达调控方面起到一定作用。但是，环状RNA在人体中如何发挥调控作用仍未阐明。
+该研究中，作者对六种正常组织和七种癌变组织样本通过去除核糖体的方式进行了RNA测序，并发现了27000种circRNA，其中大多数的circRNA在正常组织和癌变组织中差异表达。作者进一步研究了来源于HIPK3基因Exon2的circRNA，并将其命名为circHIPK3。circHIPK3的沉默，而非HIPK3 mRNA的沉默能够明显抑制人细胞的生长。荧光素酶筛选实验显示，circHIPK3能像海绵一样吸收9种miRNA至18个潜在结合位点。而且，circHIPK3直接结合miR-124并抑制miR-124的活性。这项研究证明来自mRNA前体的circRNA具有调控人细胞的作用。
 
-本研究测序了来自不同大脑区域、初级神经元细胞和分离的突触的RNA。通过利用这些和其他可利用的数据，发现了大量的人类和老鼠神经元circRNA。circRNA在哺乳动物大脑中大量存在，在序列上具有良好的保守性。
 
-<img src="/image/circRNA_sequencing/circRNA-seq-2.png">
-<p style="text-align: center; ">图2  circRNA序列的保守性</p>
+<p style="text-align: center; "><img src="/image/circRNA_sequencing/circRNA-seq-2.png">
+
+人的circRNA在基因组的来源统计图：80%以上的circRNA来自外显子，小部分来自内含子、lncRNA和反义区（a）；不同正常组织中的circRNA聚类分析热力图（b）；进一步研究发现circHIPK3是基因HIPK3产生的主要circRNA，基因HIPK3产生五种circRNA，其中circHIPK3包含基因HIPK3的第二外显子（c）。
 
 <div><strong>参考文献:</strong><div>
-
-Rybak-Wolf A, Stottmeister C, Glažar P, et al. Circular RNAs in the mammalian brain are highly abundant, conserved, and dynamically expressed[J]. Molecular cell, 2015, 58(5): 870-885.
+Zheng Q, Bao C, Guo W, et al. Circular RNA profiling reveals an abundant circHIPK3 that regulates cell growth by sponging multiple miRNAs[J]. Nature Communications, 2016, 7(11215).
