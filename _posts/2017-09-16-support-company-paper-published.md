@@ -3,7 +3,7 @@ layout: page
 title: "热烈祝贺康测科技团队成员在Nature子刊发表文章"
 date: 2017-08-30 21:29:40 +0800
 thumbnail: ../image/news/2017/paper published/1.png
-description: "miRNA 是一类长度 21~22nt 的非编码 RNA，在转录后调控中发挥重要的作用。约 80%的 已 注 释 的 miRNA 由 来 自 于 不 同 的 编 码 或 非 编 码 起 始 转 录 本 — pri-miRNA 经DROSHA-DGCR8 微加工体加工成 pre-miRNA，再经 Exportin5 运输到细胞质并被 DICER 酶进一步加工形成成熟的 miRNA。之前的研究表明某些 pri-mRNA 的加工是与转录是同时发生的，但基因组层面上的大多数 pri-mRNA 的加工是否是与转录同时发生，这种所谓的“共转录”加工或可能的转录后加工是通过何种机制发生的，对于进一步理解 miRNA 的生物合成和特定组织细胞内的调控机制至关重要。"
+description: "近日，《Nature Structural & Molecular Biology》杂志发表最新miRNA加工研究成果，填补了miRNA加工研究空白。文章的通讯作者为武汉大学生科院付向东教授和周宇教授；康测科技团队成员吴启家是文章的共同第一作者，参与了实验方案的设计和实施操作。"
 categories: company
 sidebar: true
 news: true
