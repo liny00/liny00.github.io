@@ -20,7 +20,7 @@ medicine: true
 
 ---
 
-## KC-SSMP技术原理图
+## KC-SMP技术原理图
 <img class="fig30" src="/image/library_build/SSMP/KC-SSMP建库原理.jpg">
 
 ---

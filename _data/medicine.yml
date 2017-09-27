@@ -4,7 +4,7 @@ subtitle:
   - name: "KC-AMP建库"
     link: "/library_build/"
 
-  - name: "KC-SSMP建库"
+  - name: "KC-SMP建库"
     link: "/library_build/KC_SSMP/"
 
   - name: "KC-BS-seq建库"
