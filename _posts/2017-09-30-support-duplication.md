@@ -21,7 +21,7 @@ news: true
 模板分子的碱基偏好会影响PCR的效率，容易PCR扩增的模板分子会得到更多的扩增片段，即更高的duplication。
 
 下图展示了两个duplication程度不同的文库，上半部分的文库复杂度低，有较多的重复片段，这些片段经测序就会产生重复reads。而下半部分的文库有较高的复杂度，几乎每一个片段对应着基因组上不同的位置。
-  <p style="text-align: center;"><img  src="/image/news/2017/2017-09-30/1.png"></p>
+  <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-09-30/1.png"></p>
 
 此外duplication还与测序深度有关，duplication会随着测序深度的增加而上升。
 
@@ -35,7 +35,7 @@ Duplication过多会对测序、比对、表达量分析等产生干扰，如果
 下图左侧为康测转录组建库试剂盒建库效果，unique reads约为60%，通过去重复，unique reads达到85%以上；右侧为常规商品化试剂盒建库效果，去重复前后，unique reads分别低于20%和低于60%。
 
 可以看出，同一样本，使用康测转录组建库试剂盒进行建库，产生的duplication更低，对表达量的分析更为准确。
-   <p style="text-align: center;"><img  src="/image/news/2017/2017-09-30/2.png"></p>
+   <p style="text-align: center;"><img class="fig70" src="/image/news/2017/2017-09-30/2.png"></p>
 注：横坐标为reads重复的次数，纵坐标为重复次数对应的reads占total reads的比例，以reads的总数作为100%。
 
 
