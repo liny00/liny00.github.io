@@ -3,11 +3,12 @@ layout: page
 title: "案例解析：旁斑参与pri-miRNA的加工成熟"
 date: 2017-09-15 21:29:40 +0800
 thumbnail: ../image/news/2017/paper published/1.png
-description: "miRNA 是一类长度 21~22nt 的非编码 RNA，在转录后调控中发挥重要的作用。约 80%的 已 注 释 的 miRNA 由 来 自 于 不 同 的 编 码 或 非 编 码 起 始 转 录 本 — pri-miRNA 经DROSHA-DGCR8 微加工体加工成 pre-miRNA，再经 Exportin5 运输到细胞质并被 DICER 酶进一步加工形成成熟的 miRNA。之前的研究表明某些 pri-mRNA 的加工是与转录是同时发生的，但基因组层面上的大多数 pri-mRNA 的加工是否是与转录同时发生，这种所谓的“共转录”加工或可能的转录后加工是通过何种机制发生的，对于进一步理解 miRNA 的生物合成和特定组织细胞内的调控机制至关重要。"
+description: "miRNA 是一类长度 21~22nt 的非编码 RNA，在转录后调控中发挥重要的作用。约 80%的 已 注 释 的 miRNA 由 来 自 于 不 同 的 编 码 或 非 编 码 起 始 转 录 本 —pri-miRNA 经DROSHA-DGCR8 微加工体加工成 pre-miRNA，再经 Exportin5 运输到细胞质并被 DICER 酶进一步加工形成成熟的 miRNA。之前的研究表明某些 pri-mRNA 的加工是与转录是同时发生的，但基因组层面上的大多数 pri-mRNA 的加工是否是与转录同时发生，这种所谓的“共转录”加工或可能的转录后加工是通过何种机制发生的，对于进一步理解 miRNA 的生物合成和特定组织细胞内的调控机制至关重要。"
 categories: support
 sidebar: true
 news: true
 ---
+
 miRNA 是一类长度 21~22nt 的非编码 RNA，在转录后调控中发挥重要的作用。约 80%的 已 注 释 的 miRNA 由 来 自 于 不 同 的 编 码 或 非 编 码 起 始 转 录 本 —pri-miRNA 经DROSHA-DGCR8 微加工体加工成 pre-miRNA，再经 Exportin5 运输到细胞质并被 DICER 酶进一步加工形成成熟的 miRNA。之前的研究表明某些 pri-mRNA 的加工是与转录是同时发生的，但基因组层面上的大多数 pri-mRNA 的加工是否是与转录同时发生，这种所谓的“共转录”加工或可能的转录后加工是通过何种机制发生的，对于进一步理解 miRNA 的生物合成和特定组织细胞内的调控机制至关重要。
 
 ##### miRNA 的加工过程：
