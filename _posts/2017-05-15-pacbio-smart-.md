@@ -9,8 +9,6 @@ sidebar: true
 news: true
 ---
 
-<img style="float: left; margin-right: 2em;" src="/image/news/2017/BS-seq研发.png">
-
 测序技术在近几年中又有里程碑的发展，Pacific Biosciences公司成功推出商业化的第三代测序仪平台，让三代测序正式走入我们的视线。与前两代相比，第三代测序有什么不同呢？我们就来详细了解测序界新宠-PacBio SMRT测序平台。
 
 PacBio SMRT测序原理
