@@ -2,7 +2,7 @@
 layout: page
 title: "高通量测序中的Duplication"
 date: 2017-09-30 21:29:40 +0800
-thumbnail: ../image/news/2017/paper published/1.png
+thumbnail: ../image/news/2017/2017-09-30/0.png
 description: "Duplication过多会对测序、比对、表达量分析等产生干扰，如果一个片段通过PCR扩增、测序，产生了重复reads，在比对参考基因组时，这些重复的reads均会被比对到参考基因组，影响reads在全基因组的分布。而在分析表达量时，重复reads则直接造成表达量高于实际表达量，同时duplication过高通常伴随着文库复杂度低、一些序列片段信息丢失，这些片段信息的丢失则导致测序获得的表达量低于实际表达量。因此，duplication过高意味着表达量的分析不够准确。"
 categories: support
 sidebar: true
