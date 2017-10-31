@@ -15,7 +15,7 @@ news: true
 T细胞受体（TCR）是由两条不同肽链构成的异二聚体，由α、β两条肽链组成，每条肽链又可分为可变区（V区），恒定区（C区），跨膜区和胞质区等几部分。目前对TCR的主要鉴别方法之一是对其α和β链进行测序。但是，若要进一步全面理解T细胞反应机理，还需对不同T细胞亚群内部和相互间的表型差异进行更精确的识别。传统免疫学研究中基于群体细胞测序获得的数据很难实现对细胞异质性和不同细胞亚群的特性分析，因此在单细胞水平进行免疫细胞表型分析越来越广泛地被应用于免疫学研究中。
 
 ##### TCR测序能做什么？
-TCR序列具备类似于二维码结构的“溯源”能力，与TCR和细胞亚群的变异，以及揭示机体的健康和疾病状态有着密切关系。利用这些信息有可能识别和靶向定位与致病性相关的T细胞亚群，为复合抗体、疫苗研发，肿瘤免疫治疗，以及自身免疫系统疾病等研究提供了大量的有效数据信息。</p>
+TCR序列具备类似于二维码结构的“溯源”能力，与TCR和细胞亚群的变异，以及揭示机体的健康和疾病状态有着密切关系。利用这些信息有可能识别和靶向定位与致病性相关的T细胞亚群，为复合抗体、疫苗研发，肿瘤免疫治疗，以及自身免疫系统疾病等研究提供了大量的有效数据信息。
 
  <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/2.jpg"></p>
 
@@ -25,7 +25,8 @@ TCR序列具备类似于二维码结构的“溯源”能力，与TCR和细胞�
 
 ###### 1.	转录组测序鉴定T细胞亚型
 作者使用转录组测序鉴定了11个T细胞亚型，其中5种CD8+细胞亚型，6种CD4+细胞亚型。
-5种CD8+细胞亚型：</P>
+5种CD8+细胞亚型：
+
 A.	C1_CD8-LEF1：主要存在外周血，表达LEF1、CCR7等初始marker；
 
 B.	C2_CD8-CX3CR1：高表达CX3CR1，FCGR3A等基因，与T细胞效应相关；
@@ -52,9 +53,9 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 
   <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/3.jpg"></p>
 <p style="text-align: center;">A：根据T细胞表达特征进行聚类分类；B：不同类型T细胞的来源
- <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/4.jpg"></p>
+ <p style="text-align: center;"><img class="fig40" src="/image/news/2017/2017-11-02/4.jpg"></p>
 
-<p style="text-align: center;">每个细胞亚型的特异表达谱</p>
+<p style="text-align: center;">每个细胞亚型的特异表达谱
 
 ###### 2.	发现耗竭T细胞特异表达的marker——LAYN
 
@@ -64,7 +65,7 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 
  <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/5.jpg"></p>
 
- <p style="text-align: center;">A：在细胞亚型C8_CD4-CTLA4和C4_CD8-LAYN中，LAYN特异性的高表达；B：LAYN表达量高与患者预后不良相关</p>
+ <p style="text-align: center;">A：在细胞亚型C8_CD4-CTLA4和C4_CD8-LAYN中，LAYN特异性的高表达；B：LAYN表达量高与患者预后不良相关
 
 ###### 3.	LAYN抑制CD8+ T细胞的功能
 
@@ -72,7 +73,7 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 
 <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/6.jpg"></p>
 
-<p style="text-align: center;">在激活的CD8+细胞和调节T细胞中表达LAYN的细胞数量增加</P>
+<p style="text-align: center;">在激活的CD8+细胞和调节T细胞中表达LAYN的细胞数量增加
 
 体外细胞实验也证实，CD8+T细胞被激活后，LAYN的表达量上调，此外，通过反转录病毒介导过表达LAYN的CD8+ T细胞，其分泌的 IFN-γ量降低，说明LAYN对CD8+ T细胞的功能起到抑制的作用。
 
@@ -88,7 +89,7 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 通过TCR-seq获得α链和β链全长序列信息，发现大部分细胞的TCR 中α链和β链都是唯一的。拥有一对完全一样的α链和β链可能来源于同一祖细胞，α-β链配对模式为3个以上细胞共有的情况，作者将其定义为扩增克隆。
 
 <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/9.jpg"></p>
-<p style="text-align: center;">肿瘤组织中，有两个甚至多个克隆TCR的T细胞比例升高</P>
+<p style="text-align: center;">肿瘤组织中，有两个甚至多个克隆TCR的T细胞比例升高
 
 在正常组织和外周血中发现的克隆TCR只占总CD 8+ T细胞的10%左右，而在肿瘤组织中，该比例高达约30%。与外周血或癌旁组织相比，在肿瘤组织CD8 +T细胞的TCR克隆要高得多，在调节T细胞中也发现了类似的富集现象，这可能是由于肿瘤病灶处的T细胞被激活并增殖导致的。
 
@@ -102,8 +103,6 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/11.jpg"></p>
 <p style="text-align: center;">
 通过拟时间状态转换分析发现，T细胞由初期、激活状态逐渐向耗竭状态进行转换。
-
-
 
 
 参考文献：
