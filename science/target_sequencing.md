@@ -68,7 +68,6 @@ science: true
 
 <p style="text-align: center; ">图 利用NGS技术检测到BRAF基因上的一个低频变异</p>
 
----
 
 <div><strong>参考文献:</strong></div>
 
