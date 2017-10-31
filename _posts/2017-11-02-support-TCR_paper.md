@@ -55,7 +55,7 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 <p style="text-align: center;">A：根据T细胞表达特征进行聚类分类；B：不同类型T细胞的来源
  <p style="text-align: center;"><img class="fig40" src="/image/news/2017/2017-11-02/4.jpg"></p>
 
-<p style="text-align: center;">每个细胞亚型的特异表达谱
+<p style="text-align: center;">每个细胞亚型的特异表达谱</p>
 
 ###### 2.	发现耗竭T细胞特异表达的marker——LAYN
 
@@ -65,7 +65,7 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 
  <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/5.jpg"></p>
 
- <p style="text-align: center;">A：在细胞亚型C8_CD4-CTLA4和C4_CD8-LAYN中，LAYN特异性的高表达；B：LAYN表达量高与患者预后不良相关
+ <p style="text-align: center;">A：在细胞亚型C8_CD4-CTLA4和C4_CD8-LAYN中，LAYN特异性的高表达；B：LAYN表达量高与患者预后不良相关</p>
 
 ###### 3.	LAYN抑制CD8+ T细胞的功能
 
@@ -96,6 +96,7 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 肿瘤微环境内的T细胞易于发生耗竭或调节T细胞发生抑制，在HCC肿瘤微环境中的肿瘤浸润细胞，效应CD8+T细胞更少，而耗竭细胞更多。且越是晚期的患者，T细胞的耗竭趋势越明显。克隆的T细胞群（含有4个以上的克隆细胞）也更多的表现出耗竭趋势。
 
 ###### 5.	拟时间状态转换分析T细胞发育过程
+
 作者根据每个细胞亚型，结合细胞表达谱的相似性，模拟出细胞发育的过程。结果发现，CD8+ T细胞沿着以下途径进行发育：初期幼稚细胞（C1_CD8-LEF1）→效应记忆细胞（C2_CD8-CX3CR1）→C5_CD8-GZMK→耗竭T细胞（C4_CD8-LAYN）。CD4+T细胞也有类似的发育过程。
 <p style="text-align: center;"><img class="fig60" src="/image/news/2017/2017-11-02/10.jpg"></p>
 <p style="text-align: center;">
