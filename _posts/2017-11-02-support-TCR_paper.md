@@ -57,7 +57,9 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 
 <p style="text-align: center;">每个细胞亚型的特异表达谱</p>
 
+
 ###### 2.	发现耗竭T细胞特异表达的marker——LAYN
+
 
 由于长期暴露于持续性抗原和炎症，精疲力竭的肿瘤浸润T淋巴细胞（TIL）逐渐失去效应功能，即发生耗竭（T Cell Exhaustion），TIL功能失调，记忆T细胞特征也开始缺失，失去杀死肿瘤的能力，免疫系统遭受破坏。
 
@@ -67,7 +69,9 @@ F．	C11_CD4-GNLY：细胞毒性T细胞，表达NKG7,GNLY, GZMB等细胞毒性�
 
  <p style="text-align: center;">A：在细胞亚型C8_CD4-CTLA4和C4_CD8-LAYN中，LAYN特异性的高表达；B：LAYN表达量高与患者预后不良相关</p>
 
+
 ###### 3.	LAYN抑制CD8+ T细胞的功能
+
 
 在外周血中的CD8和调节T细胞表面发现了LAYN的表达，但其他CD14、CD4、CD8等细胞表面没有表达。如果通过CD3抗体和CD28抗体激活后，在30%以上的CD8+细胞和调节T细胞表面都检测到了LAYN的表达，也检测到LAYN的mRNA水平上调。
 
