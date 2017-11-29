@@ -21,7 +21,7 @@ science: true
 
 ## 技术流程
 
-<img class="fig60" src="/image/16s/16S技术路线.png">
+<img class="fig50" src="/image/16s/16S技术路线.png">
 
 ---
 
@@ -59,7 +59,7 @@ science: true
 未感染的新生小鼠肠道菌群中，典型菌类有拟杆菌（Bacteroidales）和乳酸杆菌（Lactobacillales），而感染Hpb小鼠肠道中出现了梭菌（Clostridiales）（图A）。梭菌可产生短链脂肪酸（short chain fatty acid，SCFA)，作者在感染Hpb的小鼠盲肠样本中检测到SCFA含量升高。
 在 16S rDNA 测序分析中，首先对相似性序列进行聚类，分成数量较少的分类单元，再基于分类单元进行物种注释。通过对不同样本 OTU（操作分类单元，Operational Taxonomic Unit）进行PCoA分析（主坐标轴分析，Principal Coordinates Analysis），可获得样本间的差异和距离信息。测序结果显示：Hpb感染对盲肠菌群结构组成产生影响，但对肠道内菌群数量和菌类多样性影响甚微，PCoA分析可以区分感染和未感染小鼠（图B、C）。
 
-<img class="fig80" src="/image/16s/文献2.jpg">
+<img class="fig50" src="/image/16s/文献2.jpg">
 
 
 <div><strong>参考文献:</strong></div>
