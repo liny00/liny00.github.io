@@ -21,23 +21,23 @@ science: true
 
 ## 技术流程
 
-<img class="fig70" src="/image/16s/16S技术路线.png">
+<img class="fig50" src="/image/16s/16S技术路线.png">
 
 ---
 
 ## 分析结果展示
 
-<img src="/image/16s/结果1.png">
+<img class="fig50" src="/image/16s/结果1.png">
 <p style="text-align: center; ">样品相关性heatmap</p>
 <br />
 
 
-<img src="/image/16s/结果2.png">
+<img class="fig50" src="/image/16s/结果2.png">
 <p style="text-align: center; ">基于分类等级树的组间差异分类单元展示</p>
 <br />
 
 
-<img src="/image/16s/结果3.png">
+<img class="fig50" src="/image/16s/结果3.png">
 <p style="text-align: center; ">Krona的分类学组成信息交互展示图</p>
 <br />
 
