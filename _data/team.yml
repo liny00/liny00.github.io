@@ -49,17 +49,17 @@
 - name: "郑亚标"
   link: "zhengyabiao"
   pos: "开发部"
-
+  
+- name: "王洋"
+  link: "wangyang"
+  pos: "生产部"
+  
 - name: "蒋菁菁"
   link: "jiangjingjing"
   pos: "生产部"
 
 - name: "贾晓"
   link: "jiaxiao"
-  pos: "生产部"
-
-- name: "王洋"
-  link: "wangyang"
   pos: "生产部"
 
 - name: "谢蝴蝶"
@@ -86,8 +86,14 @@
   link: "gaoyingying"
   pos: "生产部"
 
-
-
 - name: "李凯"
   link: "likai"
   pos: "生产部"
+
+name: "余晓露"
+link: "yuxiaolu"
+pos: "生产部"
+
+name: "高璐"
+link: "gaolu"
+pos: "医学部"
