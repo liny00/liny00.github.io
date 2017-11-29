@@ -12,7 +12,7 @@ genome:
       - name: "DNA靶向测序"
         link: "/science/target_sequencing/"
 
-   - name: "16S rDNA测序"
+      - name: "16S rDNA测序"
         link: "/science/16S_sequencing/"
         
 epigenetics:
