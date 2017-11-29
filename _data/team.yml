@@ -90,10 +90,10 @@
   link: "likai"
   pos: "生产部"
 
-name: "余晓露"
-link: "yuxiaolu"
-pos: "生产部"
+- name: "余晓露"
+ link: "yuxiaolu"
+ pos: "生产部"
 
-name: "高璐"
-link: "gaolu"
-pos: "医学部"
+- name: "高璐"
+ link: "gaolu"
+ pos: "医学部"
