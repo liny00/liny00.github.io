@@ -25,7 +25,7 @@ epigenetics:
       #   link: "/science/target_methy_sequencing/"
 
       # - name: "组蛋白修饰ChIP测序"
-      #   link: "/science/protein_ChIP_sequencing/"
+      #   link: "/science/protein_ChIP_sequencing/" 
 
 transcriptome:
   - submain: "转录组学研究"
