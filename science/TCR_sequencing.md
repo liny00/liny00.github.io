@@ -24,7 +24,7 @@ TCR-seq被广泛应用于肿瘤免疫、感染免疫、移植排斥、自身免�
 
 ## 技术流程
 
-<img class="fig50" src="/image/TCR_sequencing/TCR flow.png">
+<img class="fig40" src="/image/TCR_sequencing/TCR flow.png">
 ---
 
 
