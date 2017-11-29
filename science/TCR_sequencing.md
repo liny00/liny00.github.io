@@ -25,8 +25,22 @@ TCR-seq被广泛应用于肿瘤免疫、感染免疫、移植排斥、自身免�
 ## 技术流程
 
 <img class="fig50" src="/image/TCR_sequencing/TCR flow.png">
+---
 
 
+## 分析结果展示
+
+<img class="fig50" src="/image/TCR_sequencing/J基因使用频率分布图.jpg">
+<p style="text-align: center; ">J基因使用频率分布图</p>
+<br />
+
+<img class="fig50" src="/image/TCR_sequencing/V-J基因对使用频率分布图.jpg">
+<p style="text-align: center; ">V-J基因对使用频率分布图</p>
+<br />
+
+<img class="fig50" src="/image/TCR_sequencing/motif.jpg">
+<p style="text-align: center; ">CDR3编码产物motif分析</p>
+<br />
 
 ---
 
