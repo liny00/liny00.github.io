@@ -27,12 +27,12 @@ science: true
 
 ## 分析结果展示
 
-<img class="fig40" src="/image/16s/结果1.png">
+<img class="fig40" src="/image/16s/结果1.jpg">
 <p style="text-align: center; ">样品相关性heatmap</p>
 <br />
 
 
-<img class="fig40" src="/image/16s/结果2.png">
+<img class="fig40" src="/image/16s/结果3.png">
 <p style="text-align: center; ">基于分类等级树的组间差异分类单元展示</p>
 <br />
 
