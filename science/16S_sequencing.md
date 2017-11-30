@@ -37,7 +37,7 @@ science: true
 <br />
 
 
-<img class="fig40" src="/image/16s/结果3.png">
+<img class="fig40" src="/image/16s/结果2.png">
 <p style="text-align: center; ">Krona的分类学组成信息交互展示图</p>
 <br />
 
