@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "16S rDNA测序"
-permalink: /microbiology/16S_sequencing/
+permalink: /science/16S_sequencing/
 sidebar: true
 science: true
 ---
