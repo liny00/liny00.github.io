@@ -1,0 +1,8 @@
+main: "医学检测"
+
+subtitle:
+  - name: "肿瘤分型基因检测（50 gene）"
+    link: "/clinical/tumor_typing/"
+
+  - name: "靶向药用药指导基因检测（肺癌 8 gene）"
+    link: "/clinical/medication/"
