@@ -2,7 +2,7 @@ main: "建库技术供应商"
 
 subtitle:
   - name: "KC-AMP建库"
-    link: "/library_build/KC_AMP/"
+   link: "/library_build/KC_AMP/"
     
   - name: "KC-SMP建库"
     link: "/library_build/KC_SSMP/"
