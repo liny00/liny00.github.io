@@ -58,7 +58,7 @@ microbiology:
   - submain: "微生物学研究"
   - subtitle:
        - name: "16S rDNA测序"
-        link: "/microbiology/16S_sequencing/"
+        link: "/science/16S_sequencing/"
         
        - name: "宏基因组测序"
-        link: "/microbiology/metagenome_sequencing/"
+        link: "/science/metagenome_sequencing/"
