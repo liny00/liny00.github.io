@@ -11,10 +11,7 @@ genome:
 
       - name: "DNA靶向测序"
         link: "/science/target_sequencing/"
-
-      - name: "16S rDNA测序"
-        link: "/science/16S_sequencing/"
-        
+     
 epigenetics:
   - submain: "表观遗传学研究"
   - subtitle:
@@ -56,3 +53,12 @@ interactome:
 
       # - name: "多组学调控网络"
       #   link: "/science/network_sequencing/"
+      
+microbiology:
+  - submain: "微生物学研究"
+  - subtitle:
+       - name: "16S rDNA测序"
+        link: "/microbiology/16S_sequencing/"
+        
+       - name: "宏基因组测序"
+        link: "/microbiology/metagenome_sequencing/"
