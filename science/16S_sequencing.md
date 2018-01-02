@@ -21,7 +21,7 @@ science: true
 
 ## 技术流程
 
-<img class="fig50" src="/image/16s/16S技术路线.png">
+<img class="fig50" src="/image/16s/16S流程.png">
 
 ---
 
