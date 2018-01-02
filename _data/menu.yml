@@ -6,7 +6,10 @@
 
 - name: "科研服务"
   link: "/science/"
-
+  
+- name: "医学检测"
+  link: "/clinical/"
+  
 - name: "建库技术供应商"
   link: "/library_build/"
 
@@ -16,5 +19,4 @@
 - name: "联系我们"
   link: "/contact/"
 
-- name: "医学检测"
-  link: "/clinical/"
+
