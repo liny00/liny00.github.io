@@ -7,7 +7,7 @@
 * `medicine.yaml`: 建库技术数据
 * `science.yml`: 合作伙伴数据
 * `team.yml`: 人才队伍数据
-
+* `clinical.yml`: 医学检测数据
 
 
 
