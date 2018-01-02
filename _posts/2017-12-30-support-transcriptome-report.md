@@ -4,7 +4,7 @@ title: "转录组测序报告都说了些啥？"
 date: 2017-12-30 21:29:40 +0800
 thumbnail: ../image/news/2017/transcriptome_report/2.png
 description: "RPKM值用于衡量基因的表达量，在转录组测序结题报告中的表达量比较分析均以RPKM值为基础。RPKM是Reads Per Kilobase per Million mapped reads的缩写，代表每百万reads中来自于某基因每千碱基长度的reads数。RPKM是将map到基因的read数除以map到基因组上的所有read数(以million为单位)与RNA的长度(以KB为单位)。
-categories: company
+categories: support
 sidebar: true
 news: true
 ---
