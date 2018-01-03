@@ -33,7 +33,7 @@ science: true
 
 ## 基因列表
 
-<img class="fig40" src="/image/medication_guide/gene_table.png">
+<img src="/image/medication_guide/gene_table.png">
 <br />
 
 ---
