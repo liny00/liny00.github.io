@@ -42,6 +42,12 @@ transcriptome:
       - name: "TCR测序"
         link: "/science/TCR_sequencing/"
 
+microbiology:
+  - submain: "微生物学研究"
+  - subtitle:
+      - name: "16S rDNA测序"
+        link: "/science/16S_sequencing/"
+        
 interactome:
   - submain: "互作组学研究"
   - subtitle:
@@ -51,19 +57,6 @@ interactome:
       - name: "RIP测序"
         link: "/science/RIP_sequencing/"
 
-aaa:
-  - submain: "测试"
-  - subtitle:
-      - name: "ChIP测序"
-        link: "/science/ChIP_sequencing/"
-        
-      - name: "RIP测序"
-        link: "/science/RIP_sequencing/"
 
-microbiology:
-  - submain: "微生物学研究"
-  - subtitle:
-      - name: "16S rDNA测序"
-        link: "/science/16S_sequencing/"
-        
+
 
