@@ -42,13 +42,13 @@ transcriptome:
       - name: "TCR测序"
         link: "/science/TCR_sequencing/"
 
-test:
-  - submain: "测试"
+interactome1:
+  - submain: "互作组学研究"
   - subtitle:
-      - name: "测试1"
+      - name: "ChIP测序"
         link: "/science/ChIP_sequencing/"
         
-      - name: "测试2"
+      - name: "RIP测序"
         link: "/science/RIP_sequencing/"
 
 
