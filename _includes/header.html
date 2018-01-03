@@ -61,16 +61,6 @@
                     {% endfor %}
                 </div>
             </div>
-            {% elsif item.name == "资讯中心" %}
-            <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
-                {{ item.name }}
-            </a>
-                <div class="dropdown-content">
-                    {% for item in d.news.subtitle %}
-                    <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
-                    {% endfor %}
-                </div>
-            </div>
             {% elsif item.name == "联系我们" %}
             <div class="dropdown"><a href="{{ item.link }}" class="main-nav-link">
                 {{ item.name }}
