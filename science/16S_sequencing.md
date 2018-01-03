@@ -2,7 +2,7 @@
 layout: page
 title: "16S rDNA测序"
 permalink: /science/16S_sequencing/
-sidebar: false
+sidebar: true
 science: true
 ---
 
