@@ -42,6 +42,16 @@ transcriptome:
       - name: "TCR测序"
         link: "/science/TCR_sequencing/"
 
+test:
+  - submain: "测试"
+  - subtitle:
+      - name: "测试1"
+        link: "/science/ChIP_sequencing/"
+        
+      - name: "测试2"
+        link: "/science/RIP_sequencing/"
+
+
 microbiology:
   - submain: "微生物学研究"
   - subtitle:
