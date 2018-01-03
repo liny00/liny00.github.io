@@ -36,7 +36,7 @@ ctDNA即循环肿瘤DNA（circulating tumor DNA），主要由凋亡、死亡的
 ## 基因列表
 
 <img src="/image/50gene_panel/gene_table.png">
-<br />
+
 50个癌症相关基因
 207个外显子区域
 2800多个高频突变位点
