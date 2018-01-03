@@ -46,7 +46,13 @@
                     <div>
                         <div class="popover-item subtitle"><a class="popover-link">{{ d.science.interactome[0].submain }}</a></div>
                         {% for item in d.science.interactome[1].subtitle %}
-                        <div class="popover-item"><a class="popover-link"href="{{ item.link }}">{{ item.name }}</a></div>
+                        <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
+                        {% endfor %}
+                    </div>
+                    <div>
+                        <div class="popover-item subtitle"><a class="popover-link">{{ d.science.microbiology[0].submain }}</a></div>
+                        {% for item in d.science.microbiology[1].subtitle %}
+                        <div class="popover-item"><a class="popover-link" href="{{ item.link }}">{{ item.name }}</a></div>
                         {% endfor %}
                     </div>
                 </div>
