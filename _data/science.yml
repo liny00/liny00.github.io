@@ -52,7 +52,7 @@ test:
         link: "/science/RIP_sequencing/"
 
 
-microbiology:
+interactome:
   - submain: "微生物学研究"
   - subtitle:
       - name: "16S rDNA测序"
