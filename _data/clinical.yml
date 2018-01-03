@@ -2,5 +2,8 @@ main: "医学检测"
 
 subtitle:
 
+ - name: "泛癌种ctDNA/FFPE基因检测（50 gene）"
+    link: "/clinical/50gene_panel/"
+    
   - name: "靶向药用药指导基因检测（肺癌 8 gene）"
     link: "/clinical/medication_guide/"
