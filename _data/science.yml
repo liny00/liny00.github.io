@@ -50,7 +50,16 @@ interactome:
         
       - name: "RIP测序"
         link: "/science/RIP_sequencing/"
-      
+
+aaa:
+  - submain: "测试"
+  - subtitle:
+      - name: "ChIP测序"
+        link: "/science/ChIP_sequencing/"
+        
+      - name: "RIP测序"
+        link: "/science/RIP_sequencing/"
+
 microbiology:
   - submain: "微生物学研究"
   - subtitle:
