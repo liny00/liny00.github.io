@@ -24,6 +24,10 @@
 		{% for item in d.science.interactome[1].subtitle %}
     		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
     	{% endfor %}
+	<strong class="sidebar-sub-title">{{ d.science.microbiology[0].submain }}</strong>
+		{% for item in d.science.microbiology[1].subtitle %}
+    		<div class="sidebar-item"><a href="{{ item.link }}" class="sidebar-link">{{ item.name }}</a></div>
+    	{% endfor %}
     {% elsif page.medicine %}
 		<strong class="sidebar-title">{{ d.medicine.main }}</strong>
 		{% for item in d.medicine.subtitle %}
