@@ -55,7 +55,7 @@ microbiology:
         link: "/science/16S_sequencing/"
         
 immunity:
-  - submain: "免疫组学"
+  - submain: "免疫组学研究"
   - subtitle:
       - name: "TCR测序"
         link: "/science/TCR_sequencing/"
