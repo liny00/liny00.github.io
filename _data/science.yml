@@ -47,7 +47,13 @@ interactome:
   - subtitle:
       - name: "ChIP测序"
         link: "/science/ChIP_sequencing/"
-  
+        
+      - name: "RIP测序"
+        link: "/science/RIP_sequencing/"
+      
+microbiology:
+  - submain: "微生物学研究"
+  - subtitle:
       - name: "16S rDNA测序"
         link: "/science/16S_sequencing/"
         
