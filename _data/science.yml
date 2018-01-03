@@ -39,9 +39,6 @@ transcriptome:
       - name: "circRNA测序"
         link: "/science/circRNA_sequencing/"
 
-      - name: "TCR测序"
-        link: "/science/TCR_sequencing/"
-
 interactome:
   - submain: "互作组学研究"
   - subtitle:
@@ -57,4 +54,8 @@ microbiology:
       - name: "16S rDNA测序"
         link: "/science/16S_sequencing/"
         
-
+immunity:
+  - submain: "免疫组学"
+  - subtitle:
+      - name: "TCR测序"
+        link: "/science/TCR_sequencing/"
