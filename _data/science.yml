@@ -42,7 +42,7 @@ transcriptome:
       - name: "TCR测序"
         link: "/science/TCR_sequencing/"
 
-interactome1:
+interactome:
   - submain: "互作组学研究"
   - subtitle:
       - name: "ChIP测序"
