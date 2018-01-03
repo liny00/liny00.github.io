@@ -13,4 +13,9 @@
 - name: "建库技术供应商"
   link: "/library_build/"
 
+- name: "资讯中心"
+  link: "/news/"
+
+- name: "联系我们"
+  link: "/contact/"
 
