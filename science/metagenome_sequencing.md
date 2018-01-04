@@ -42,7 +42,8 @@ science: true
 
 ## 案例解析
 
-<img src="/image/metagenome_sequencing/meta_paper.png" align='right'>
+<img src="/image/metagenome_sequencing/meta_paper.png" align='left'>
+<br />
 
 #### 排泄物微生物宏基因组可作为结直肠癌标志物
 
