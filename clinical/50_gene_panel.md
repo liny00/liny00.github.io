@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "泛癌种ctDNA/FFPE基因检测（50 gene）"
-permalink: /clinical/50_gene_panel/
+permalink: /clinical/
 sidebar: true
 science: true
 ---
