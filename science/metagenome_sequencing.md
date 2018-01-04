@@ -16,19 +16,19 @@ science: true
 
 ## 建库方法
 
-<img class="fig50" src="/image/metagenome_sequencing/meta_library.png">
+<img class="fig40" src="/image/metagenome_sequencing/meta_library.png">
 
 ---
 
 ## 技术流程
 
-<img class="fig50" src="/image/metagenome_sequencing/meta_flow.png">
+<img class="fig40" src="/image/metagenome_sequencing/meta_flow.png">
 
 ---
 
 ## 分析结果展示
 
-<img src="/image/metagenome_sequencing/meta_result.png">
+<img class="fig90" src="/image/metagenome_sequencing/meta_result.png">
 
 ---
 
@@ -50,7 +50,7 @@ science: true
 
 <img src="/image/metagenome_sequencing/meta_paper1.png">
 
-<p style="text-align: center; ">A：三种菌在患者和健康对照组中的丰度统计；B：患者和健康对照组中的OTU聚类</p>
+<p style="text-align: center; ">A：三种菌在患者和健康对照组中的丰度统计；　B：患者和健康对照组中的OTU聚类</p>
 
 
 <div><strong>参考文献:</strong></div>
