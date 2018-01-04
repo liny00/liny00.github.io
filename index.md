@@ -52,7 +52,7 @@ layout: default
 </div>
 <div class="home-title"><span>特色服务</span></div>
 <div class="product">
-  <div class="product-panel"><img src="/image/home/chromosome.png" style="width: 2.5rem; margin-left: 1rem;"><a href="/science/ChIP_sequencing/">全基因组甲基化测序</a></div>
+  <div class="product-panel"><img src="/image/home/chromosome.png" style="width: 2.5rem; margin-left: 1rem;"><a href="/science/TCR_sequencing/">TCR测序</a></div>
   <div class="product-panel"><img src="/image/home/thisimagecou.png" style="width: 4rem; margin-left: 1rem;"><a href="/science/RIP_sequencing/">KC-AMP建库技术</a></div>
   <div class="product-panel"><img src="/image/home/GluRBRGpremRNA4.png" style="width: 2rem; margin-left: 1rem;"><a href="/science/target_sequencing/">DNA靶向测序</a></div>
   <div class="product-panel"><img src="/image/home/final_protnotran.png" style="width: 3.5rem; margin-left: 1rem;"><a href="/library_build/KC_RNA/">KC-RNA靶向建库技术</a></div>
