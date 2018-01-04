@@ -43,7 +43,7 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 <br />
 
 <p style="text-align: center; "><img class="fig50" src="/image/small_RNA_sequencing/差异表达聚类分析.png">
-<p style="text-align: center; ">差异表达聚类分析
+<p style="text-align: center; ">差异表达聚类分析</p>
 
 ---
 
@@ -51,11 +51,11 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 ## 康测技术优势
 
 * 超低起始量建库技术
-
+<br />
 * 多生物信息学软件对miRNA靶基因预测，交集确定miRNA靶基因的准确性
-
+<br />
 * 对差异miRNA靶基因GO、KEGG富集，深度解析miRNA的功能
-
+<br />
 ---
 
 
