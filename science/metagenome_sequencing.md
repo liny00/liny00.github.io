@@ -16,13 +16,13 @@ science: true
 
 ## 建库方法
 
-<img class="fig30" src="/image/metagenome_sequencing/meta_library.png">
+<img class="fig50" src="/image/metagenome_sequencing/meta_library.png">
 
 ---
 
 ## 技术流程
 
-<img src="/image/metagenome_sequencing/meta_flow.png">
+<img class="fig50" src="/image/metagenome_sequencing/meta_flow.png">
 
 ---
 
@@ -42,7 +42,7 @@ science: true
 
 ## 案例解析
 
-<img src="/image/metagenome_sequencing/meta_paper.png">
+<div><img src="/image/metagenome_sequencing/meta_paper.png"></div>
 
 #### 排泄物微生物宏基因组可作为结直肠癌标志物
 
