@@ -3,7 +3,7 @@ layout: page
 title: "靶向药用药指导基因检测（肺癌 8 gene）"
 permalink: /clinical/medication_guide/
 sidebar: true
-science: true
+clinical: true
 ---
 
 ## 简介
