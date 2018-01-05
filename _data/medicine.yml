@@ -1,14 +1,14 @@
 main: "建库技术供应商"
 
 subtitle:
-  - name: "KC-AMP建库"
+  - name: "KC-IRQuant(TCR)建库"
     link: "/library_build/"
     
   - name: "KC-SMP建库"
     link: "/library_build/KC_SSMP/"
 
-  - name: "KC-BS-seq建库"
-    link: "/library_build/KC_BS_seq/"
+  - name: "KC-Digit-16S建库"
+    link: "/library_build/KC_16S_library/"
 
   - name: "KC-RNA靶向建库"
     link: "/library_build/KC_RNA/"
