@@ -24,7 +24,7 @@ medicine: true
 
 ## KC-Digit-16S建库技术原理
 
-<img src="/image/library_build/16S/16S_library.png">
+<img class="fig60" src="/image/library_build/16S/16S_library.png">
 
 ---
 
