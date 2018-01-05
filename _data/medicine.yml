@@ -1,10 +1,10 @@
-main: "建库技术供应商"
+main: "建库技术"
 
 subtitle:
-  - name: "KC-IRQuant(TCR)建库"
+  - name: "KC-IRQuant建库"
     link: "/library_build/"
     
-  - name: "KC-SMP(ctDNA)建库"
+  - name: "KC-SMP建库"
     link: "/library_build/KC_SSMP/"
 
   - name: "KC-Digit-16S建库"
