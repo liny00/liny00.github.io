@@ -4,11 +4,11 @@ subtitle:
   - name: "KC-IRQuant(TCR)建库"
     link: "/library_build/"
     
-  - name: "KC-SMP建库"
+  - name: "KC-SMP(ctDNA)建库"
     link: "/library_build/KC_SSMP/"
 
   - name: "KC-Digit-16S建库"
     link: "/library_build/KC_16S_library/"
 
-  - name: "KC-RNA靶向建库"
+  - name: "KC-RNA(靶向)建库"
     link: "/library_build/KC_RNA/"
