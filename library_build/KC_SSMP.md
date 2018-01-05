@@ -36,7 +36,7 @@ KC-SMP建库技术结合了多重PCR和靶向捕获技术的优势，同时避�
 
 KC-SMP与CAPP-seq和多重PCR的技术对比如下：
 
-<img class="fig50" src="/image/library_build/SSMP/SMP2.png">
+<img class="fig70" src="/image/library_build/SSMP/SMP2.png">
 
 ---
 
@@ -52,7 +52,7 @@ Horizon HD780 cfDNA标准品（0.1%、1%、5%、100%）建库测序，靶向检�
 
 靶点覆盖稳定，可以进行CNV检测。
 
-<img class="fig80" src="/image/library_build/SSMP/SMP3.png">
+<img class="fig60" src="/image/library_build/SSMP/SMP3.png">
 
 ### 3.靶点测序深度分布
 
@@ -62,6 +62,6 @@ Horizon HD780 cfDNA标准品（0.1%、1%、5%、100%）建库测序，靶向检�
 
 A：Horizon HD780标准品包含6个SNV和2个InDel（含量分别为0.1%、1%、5%），所有变异在3次重复实验中全部被检测到，且AF和标称值差异很小。B：样本包含大量突变（含量从 0.01%至75%），这些突变都被稳定检测到。
 
-<img  class="fig80" src="/image/library_build/SSMP/SMP5.png">
+<img  class="fig60" src="/image/library_build/SSMP/SMP5.png">
 
 
