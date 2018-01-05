@@ -10,7 +10,7 @@
 - name: "医学检测"
   link: "/clinical/"
   
-- name: "建库技术供应商"
+- name: "建库技术"
   link: "/library_build/"
 
 - name: "资讯中心"
