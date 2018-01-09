@@ -32,35 +32,16 @@ Small RNA通过多种多样的作用途径，包括mRNA降解、翻译抑制、�
 
 ## 分析结果展示
 
-<p style="text-align: center; "><img class="fig50" src="/image/small_RNA_sequencing/Small RNA长度分布统计.png">
-<p style="text-align: center; ">Small RNA长度分布统计</p>
-<br />
-
-<p style="text-align: center; "><img class="fig40" src="/image/small_RNA_sequencing/miRNA各位点碱基偏好.png">
-<p style="text-align: center; ">miRNA各位点碱基偏好</p>
-<br />
-
-<p style="text-align: center; "><img class="fig40" src="/image/small_RNA_sequencing/差异表达火山图.png">
-<p style="text-align: center; ">差异表达火山图</p>
-<br />
-
-<p style="text-align: center; "><img class="fig40" src="/image/small_RNA_sequencing/差异表达聚类分析.png">
-<p style="text-align: center; ">差异表达聚类分析</p>
-<img class="fig50" src="/image/TCR_sequencing/motif.jpg">
-<p style="text-align: center; ">CDR3编码产物motif分析</p>
-<br />
+<img src="/image/small_RNA_sequencing/Small RNA result.png">
 
 ---
 
 ## 康测技术优势
 
-* 康测科技专利RNA(靶向)建库技术，缩短建库时间的同时提高建库效率；
-* 自主创新的UID技术帮助实现TCR表达量的绝对定量；
-* 提供从样本处理、TCR扩增、建库测序到数据分析的一站式完善服务。
-
+* 超低起始量建库技术
+* 多种生物信息学软件对miRNA靶基因预测，交集确定miRNA靶基因提高准确性
+* 对差异miRNA靶基因GO、KEGG富集，深度解析miRNA的功能
 ---
-
-## 案例解析
 ## 案例解析
 
 <img src="/image/small_RNA_sequencing/small-seq-3.png">
