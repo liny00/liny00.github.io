@@ -22,7 +22,7 @@ BCR测序通过高通量测序技术检测靶向扩增后的BCR重链（heavy ch
 
 ## 技术流程
 
-<img class="fig40" src="/image/TCR_sequencing/TCR flow.png">
+<img class="fig40" src="/image/BCR_sequencing/bcr_flow.png">
 
 ---
 
