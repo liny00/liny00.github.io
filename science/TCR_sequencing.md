@@ -8,7 +8,7 @@ science: true
 
 ## 简介
 
-T细胞受体（T cell receptor，TCR）是T细胞表面特异性识别MHC呈递的抗原和介导免疫应答的异二聚体分子，95%的TCR有α、β两条t肽链构成，具有高度多样性。
+T细胞受体（T cell receptor，TCR）是T细胞表面特异性识别抗原呈递细胞（APC）呈递的抗原和介导免疫应答的异二聚体分子，95%的TCR有α、β两条t肽链构成，具有高度多样性。
 
 T细胞受体库测序（T cell receptor repertoire sequencing，TCR-Seq）通过高通量测序技术（High-throughput sequencing，HTS）检测靶向扩增后的TCR序列，分析其多样性，以及T细胞识别抗原前后，TCR基因重排碱基序列和各序列的丰度。它能反映机体在生理和病理状态下T细胞介导的细胞免疫应答状态改变，可用于研究不同T细胞克隆的转录情况和相互间关系，从而揭示更深层次的T细胞功能特异性。
 
