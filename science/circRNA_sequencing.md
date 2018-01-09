@@ -44,7 +44,7 @@ science: true
 ## 康测技术优势
 * 低至10ug RNA的建库起始量
 * 采用链特异性建库方法，能更好鉴定circRNA的正反链来源
-* 能对miRNA结合位点进行鉴定
+* 联合miRNA测序数据，研究ceRNA调控机制
 
 ---
 
