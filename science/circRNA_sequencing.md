@@ -50,7 +50,7 @@ science: true
 
 ## 案例解析
 
-<img class="fig80" src="/image/circRNA_sequencing/circRNA-seq-0.png" align='right'>
+<img src="/image/circRNA_sequencing/circRNA-seq-0.png" >
 
 环状RNA（circRNA）是一类广泛存在于真核生物中的内源性RNA，可能在基因表达调控方面起到一定作用。但是，环状RNA在人体中如何发挥调控作用仍未阐明。
 该研究中，作者对六种正常组织和七种癌变组织样本通过去除核糖体的方式进行了RNA测序，并发现了27000种circRNA，其中大多数的circRNA在正常组织和癌变组织中差异表达。作者进一步研究了来源于HIPK3基因Exon2的circRNA，并将其命名为circHIPK3。circHIPK3的沉默，而非HIPK3 mRNA的沉默能够明显抑制人细胞的生长。荧光素酶筛选实验显示，circHIPK3能像海绵一样吸收9种miRNA至18个潜在结合位点。而且，circHIPK3直接结合miR-124并抑制miR-124的活性。这项研究证明来自mRNA前体的circRNA具有调控人细胞的作用。
