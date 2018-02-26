@@ -7,3 +7,7 @@ subtitle:
     
   - name: "靶向药用药指导基因检测（肺癌 8 gene）"
     link: "/clinical/medication_guide/"
+    
+     name: "T细胞受体（TCR）测序"
+    link: "/clinical/TCR-seq/"
+
