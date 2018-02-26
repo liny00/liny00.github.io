@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "T细胞受体（TCR）测序"
-permalink: /clinical/
+permalink: /clinical/TCR-seq/
 sidebar: true
 clinical: true
 ---
