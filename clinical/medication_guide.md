@@ -36,7 +36,7 @@ clinical: true
 
 ## 基因列表
 
-<img src="/image/medication_guide/gene_table.png">
+<img src="/image/clinical/lung_cancer_medication_guide/gene_table.png">
 <br />
 
 ---
