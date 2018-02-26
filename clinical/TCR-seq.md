@@ -11,11 +11,11 @@ clinical: true
 T细胞受体库测序（T cell receptor repertoire sequencing，TCR-Seq）是以生物信息学（Bioinformatics）全面高速分析高通量测序技术（High-throughput sequencing，HTS）检测靶向扩增后的T细胞抗原识别决定性表面分子，即T细胞受体（T cell receptor，TCR）多样性的检测技术，用以揭示机体在生理和病理状态下T细胞介导的细胞免疫应答（T cell-mediated immune response）状态改变。
 T细胞介导的细胞免疫应答过程中，抗原呈递细胞（antigen-presenting cell，APC）摄取抗原（Ag）、消化形成抗原-MHC分子复合物，并呈递给T细胞。T细胞通过自身T细胞受体β链中V-D-J基因重排后的CDR3β参与抗原识别。
 
-<img src="/image/clinical/TCR-seq/TCR1.jpg">
+<img src="/image/clinical/TCR-seq/TCR1.png">
 
 TCR基因结构如下图所示，（左：α链基因结构，右：β链基因结构），TCR的基因由可变区（V）、多变区（D）、结合区（J）和恒定区（C）四部分基因片段组成，形成互补决定区（complementarities determining region, CDR）和间隔的4个骨架区（framework region, FR），基因结构如下图所示。在T细胞发育过程中CDR1、2和FR区域相对保守，CDR3区由V、D和J 进行重排而形成具有功能的TCR编码基因（T细胞克隆），由于V（65~100种）、D（2种）、J（13种）基因片段本身具有多样性，此外，由于在重排的过程中，在VD及D-J的连接区经常有非模板的核苷酸的随机插入或删除，进一步增加了CDR3区的多样性。这种基因片段连接的不准确性使TCR的表达呈多样性，以识别各种不同的抗原。
 
-<img src="/image/clinical/TCR-seq/TCR2.jpg">
+<img src="/image/clinical/TCR-seq/TCR2.png">
 
 TCR-seq常用于评价各种免疫相关疾病和遗传性突变引起的某个物种所有T细胞或特定T细胞激活介导的细胞免疫反应中TCR基因重排碱基序列，以及各序列的丰度，用于研究不同T细胞克隆的转录情况和相互间关系，从而揭示更深层次的T细胞功能特异性，继而解释免疫应答机制、免疫耐受原因，免疫调节形式等相关生命现象。
 TCR-seq的应用方向包括：
