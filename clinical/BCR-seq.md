@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "T细胞受体（TCR）测序"
+title: "B细胞受体（BCR）测序"
 permalink: /clinical/BCR-seq/
 sidebar: true
 clinical: true
@@ -32,11 +32,11 @@ BCR-seq常用于评价各种免疫相关疾病和遗传性突变引起的某个�
 
 ## 产品优势
 
-1. 自主研发的专利RNA（靶向）建库技术
+1.自主研发的专利RNA（靶向）建库技术
 
-2. 缩短建库时间的同时大大提高建库效率
+2.缩短建库时间的同时大大提高建库效率
 
-3. 自主创新的UID技术，不仅仅是检测，更是BCR绝对定量
+3.自主创新的UID技术，不仅仅是检测，更是BCR绝对定量
 	
 ---
 
