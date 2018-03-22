@@ -70,14 +70,11 @@ ChIP-seq是将染色质免疫共沉淀与高通量测序相结合的技术，通
 
 <img class="fig70" src="/image/ChIP_sequencing/ChIP-2.png">
 
-<p style="text-align: center; ">（A）在玉米基因组中O2结合位点的分布情况，（B）外显子区域O2的结合峰分布，（C）基因转录起始位点（TSS）上下游区域O2的结合峰分布：O2的结合位点集中于TSS上游300bp以内，（D）RNA-seq和ChIP-seq结果的维恩图：O2调控35个基因表达上调、4个基因表达下调。</p>
-
----
+（A）在玉米基因组中O2结合位点的分布情况，（B）外显子区域O2的结合峰分布，（C）基因转录起始位点（TSS）上下游区域O2的结合峰分布：O2的结合位点集中于TSS上游300bp以内，（D）RNA-seq和ChIP-seq结果的维恩图：O2调控35个基因表达上调、4个基因表达下调。
 
 <img class="fig50" src="/image/ChIP_sequencing/ChIP-3.png">
 <p style="text-align: center; ">O2的motif分析</p>
 
----
 
 <div><strong>参考文献:</strong></div>
 
