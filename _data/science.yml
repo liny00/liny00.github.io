@@ -18,8 +18,8 @@ epigenetics:
       - name: "全基因组甲基化测序"
         link: "/science/methy_sequencing/"
 
-      # - name: "靶向甲基化测序"
-      #   link: "/science/target_methy_sequencing/"
+      - name: "MeRIP测序"
+      link: "/science/MeRIP_sequencing/"
 
       # - name: "组蛋白修饰ChIP测序"
       #   link: "/science/protein_ChIP_sequencing/" 
@@ -38,6 +38,9 @@ transcriptome:
 
       - name: "circRNA测序"
         link: "/science/circRNA_sequencing/"
+        
+        - name: "绝对定量转录组测序"
+        link: "/science/DigitRNA_sequencing/"
 
 interactome:
   - submain: "互作组学研究"
@@ -47,6 +50,9 @@ interactome:
         
       - name: "RIP测序"
         link: "/science/RIP_sequencing/"
+       
+      - name: "CLIP测序"
+        link: "/science/CLIP_sequencing/"
 
 microbiology:
   - submain: "微生物学研究"
