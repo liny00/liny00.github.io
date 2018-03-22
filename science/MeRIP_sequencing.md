@@ -15,19 +15,19 @@ m6A甲基化修饰在基因表达调控、mRNA剪接、RNA编辑、RNA稳定性�
 
 ## 建库方法
 
-<img src="/image/MeRIP_sequencing/宣传册MeRIP测序.jpg">
+<img class="fig60" src="/image/MeRIP_sequencing/宣传册MeRIP测序.png">
 
 ---
 
 ## 技术流程
 
-<img class="fig70" src="/image/MeRIP_sequencing/merIP测序.png">
+<img class="fig50" src="/image/MeRIP_sequencing/merIP测序.png">
 
 ---
 
 ## 部分结果展示
 
-<img class="fig60" src="/image/MeRIP_sequencing/MeRIP结果1.png">
+<img class="fig40" src="/image/MeRIP_sequencing/MeRIP结果1.png">
 <p style="text-align: center; ">Peak在UTR和CDS区的分布</p>                    
 <br />
 
@@ -56,16 +56,12 @@ m6A甲基化修饰在基因表达调控、mRNA剪接、RNA编辑、RNA稳定性�
 脊椎动物中，造血干/祖细胞（HSPC）来源于生血内皮，通过内皮-造血转换（EHT）方式在主动脉血管底部产生。Mettl3是RNA甲基转移酶，敲除Mettl3造成胚胎造血功能发育受损，EHT受到抑制，内皮细胞不能分化为HSPC， HSPC相关marker表达量显著减少。
 Mettl3敲除后，Mettl3蛋白表达量和全基因组的m6A水平均下降（MeRIP-seq结果显示，m6A修饰水平上调的基因478个，下调的基因多达4593个），这些m6A修饰水平下调的基因可能为Mettl3的调控靶标，且GO富集到RNA处理、胚胎发育相关term，说明m6A修饰与发育有关。
 
-<p style="text-align: center; "><img class="fig60" src="/image/MeRIP_sequencing/MeRIP文献1.png"></p>
+<p style="text-align: center; "><img src="/image/MeRIP_sequencing/MeRIP文献1.png"></p>
 
 选取受精后28小时的正常胚胎和敲除Mettl3的胚胎的内皮细胞进行RNA-seq，检测到Mettl3敲除胚胎中2393个基因上调，1386个基因下调，上调基因显著富集到Notch和血管发育term。关联分析RNA-seq和MeRIP-seq结果，在4593个Mettl3潜在靶标中，462个基因显著下调，680个显著上调，且上调基因与生血内皮发育显著相关。在上调基因中，作者筛选到Notch1a表达量显著上调，而m6A修饰几乎没有，很有可能是受到m6A修饰调控的HSPC分化关键基因。作者还发现Mettl3敲除胚胎中Notch1活性显著上升。
 调控途径：RNA甲基转移酶Mettl3催化→ Notch1a的m6A修饰→ Notch1活性→造血发育、EHT。
 
-<p style="text-align: center; "><img class="fig50" src="/image/MeRIP_sequencing/MeRIP文献2.png"></p>
-
-不同类型的细胞中，与Sm蛋白结合的RNA的量具有组织特异性
-
----
+<p style="text-align: center; "><img class="fig90" src="/image/MeRIP_sequencing/MeRIP文献2.png"></p>
 
 <div><strong>参考文献:</strong><div>
 
