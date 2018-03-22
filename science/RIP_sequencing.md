@@ -39,7 +39,7 @@ RIP-seq技术并不局限于miRNA与RBP的传统研究，近期有许多研究�
 <br />
 
 <img class="fig50" src="/image/RIP_sequencing/RIP2Peak.png">
-<p style="text-align: center; ">Peak在TSS上下游的分布</p>
+<p style="text-align: center; ">Peak在UTR和CDS区的分布</p>
 <br />
 
 <img class="fig40" src="/image/RIP_sequencing/RIP3.png">
