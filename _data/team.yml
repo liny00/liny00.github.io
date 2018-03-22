@@ -32,9 +32,13 @@
 
 - name: "王琳"
   link: "wanglin"
-  pos: "销售部"
+  pos: "市场部"
 
 - name: "先春云"
+  link: "liujunqi"
+  pos: "销售部"
+  
+- name: "刘俊琦"
   link: "xianchunyun"
   pos: "销售部"
 
@@ -66,11 +70,11 @@
   link: "xiehudie"
   pos: "生产部"
 
-- name: "阚奇"
-  link: "kanqi"
+- name: "沈璐"
+  link: "shenlu"
   pos: "生产部"
 
-- name: "张红莉"
+- name: "柳竞康"
   link: "zhanghongli"
   pos: "生产部"
 
@@ -86,14 +90,7 @@
   link: "gaoyingying"
   pos: "生产部"
 
-- name: "李凯"
-  link: "likai"
-  pos: "生产部"
-
 - name: "高璐"
   link: "gaolu"
   pos: "医学部"
 
-- name: "余晓露"
-  link: "yuxiaolu"
-  pos: "生产部"
