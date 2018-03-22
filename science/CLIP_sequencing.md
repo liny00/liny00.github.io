@@ -16,7 +16,7 @@ CLIP-seq 的应用范围：（1）绘制全基因组范围的RNA和RBP相互作�
 
 ## 建库方法
 
-<img class="fig50" src="/image/CLIP_sequencing/CLIP建库.jpg">
+<img class="fig40" src="/image/CLIP_sequencing/CLIP建库.jpg">
 
 ---
 
