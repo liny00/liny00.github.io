@@ -9,6 +9,7 @@ science: true
 ## 简介
 
 m6A甲基化修饰在基因表达调控、mRNA剪接、RNA编辑、RNA稳定性、控制mRNA寿命和降解、介导环状RNA翻译等方面扮演重要角色。
+
 甲基化RNA免疫共沉淀结合高通量测序（Methylated RNA Immunoprecipitation with Next Generation Sequencing，MeRIP-Seq）是研究细胞内转录组表观修饰的最新技术。这项技术通过使用N6-甲基腺嘌呤抗体富集高甲基化的RNA片段，然后结合高通量测序，在全转录组范围内研究发生甲基化的RNA区域，从而比较不同细胞、组织、样本间的RNA甲基化修饰模式的差异，可帮助解决细胞分化、生物发育、疾病发生发展、热休克反应等生物学问题。 
 
 ---
