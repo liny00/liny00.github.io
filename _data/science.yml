@@ -39,7 +39,7 @@ transcriptome:
       - name: "circRNA测序"
         link: "/science/circRNA_sequencing/"
         
-        - name: "绝对定量转录组测序"
+      - name: "绝对定量转录组测序"
         link: "/science/DigitRNA_sequencing/"
 
 interactome:
