@@ -9,6 +9,7 @@ science: true
 ## 简介
 
 CLIP-Seq（crosslinking-immunprecipitation and high-throughput sequencing）即紫外交联免疫沉淀结合高 通量测序， 通过高通量研究RNA结合蛋白（RNA Binding protein，RBP）在体内与众多 RNA 靶标的结合模式，并揭示其在一些重要生物学过程中的功能，是一项在全基因组水平揭示 RNA分子与RBP相互作用的革命性技术。也被应用到 miRNA 靶标鉴定、lncRNA生物学功能研究等工作中。
+
 CLIP-seq 的应用范围：（1）绘制全基因组范围的RNA和RBP相互作用图谱，解析“Argonaute（Ago）—miRNA—mRNA”三者的相互作用；（2）RBP与miRNA、lncRNA等非编码RNA的作用网络与功能的发现；（3）与 RIP-seq 相比，可以鉴定RBP和RNA之间的直接相互作用，确定 RBP 与miRNA、lncRNA 等非编码 RNA 的精确结合位点。
 
 ---
