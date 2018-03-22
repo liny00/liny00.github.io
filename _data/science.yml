@@ -54,6 +54,15 @@ interactome:
       - name: "CLIP测序"
         link: "/science/CLIP_sequencing/"
 
+immunity:
+  - submain: "免疫组学研究"
+  - subtitle:
+      - name: "TCR测序"
+        link: "/science/TCR_sequencing/"
+        
+      - name: "BCR测序"
+        link: "/science/BCR_sequencing/"
+
 microbiology:
   - submain: "微生物学研究"
   - subtitle:
@@ -63,11 +72,3 @@ microbiology:
       - name: "16S rDNA测序"
         link: "/science/16S_sequencing/"
                
-immunity:
-  - submain: "免疫组学研究"
-  - subtitle:
-      - name: "TCR测序"
-        link: "/science/TCR_sequencing/"
-        
-      - name: "BCR测序"
-        link: "/science/BCR_sequencing/"
