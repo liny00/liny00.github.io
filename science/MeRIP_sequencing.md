@@ -15,7 +15,7 @@ m6A甲基化修饰在基因表达调控、mRNA剪接、RNA编辑、RNA稳定性�
 
 ## 建库方法
 
-<img class="fig60" src="/image/MeRIP_sequencing/宣传册MeRIP测序.png">
+<img class="fig60" src="/image/MeRIP_sequencing/宣传册MeRIP测序.jpg">
 
 ---
 
