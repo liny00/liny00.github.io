@@ -16,7 +16,7 @@ Duplication指测序数据中的重复reads。测序文库构建过程中，通�
 
 绝对定量转录组测序，在文库扩增之前为每一条RNA片段加上唯一的身份标签（Unique Identifier，UID）。那么同一个片段扩增出来的产物均带有相同的标签，而天然重复片段则带有不同的标签。测序完成后利用UID过滤数据，将相同标记的扩增产物进行合并，就能准确去除PCR扩增重复、同时保留样本的天然重复，一比一准确还原样本扩增前的原始状态。在此过程中，PCR扩增和测序错误同样可以被纠正：扩增和测序的错误会使得相同UID标签对应多个不同的序列，那么只需比较这些序列的相似性，即可纠正这些错误。
 
-<img class="fig60" src="/image/DigitRNA_sequencing/UID-1.png">
+<img class="fig30" src="/image/DigitRNA_sequencing/UID-1.png">
 <p style="text-align: center; ">UID去重和纠错原理</p>       
 ---
 
