@@ -26,7 +26,7 @@ Duplication指测序数据中的重复reads。测序文库构建过程中，通�
 
 <img class="fig40" src="/image/DigitRNA_sequencing/UID-1.png">
 <p style="text-align: center; ">UID去重和纠错原理</p>       
----
+
 ---
 
 ## RNA建库技术原理
