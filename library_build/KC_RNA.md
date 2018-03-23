@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "KC-RNA靶向建库技术"
+title: "绝对定量转录组（KC-DigitRNA）建库技术"
 permalink: /library_build/KC_RNA/
 sidebar: true
 medicine: true
