@@ -2,14 +2,14 @@ main: "建库技术"
 
 subtitle:
 
-  - name: "绝对定量转录组（KC-DigitRNA）建库"
-    link: "/library_build/KC_RNA/"
-
   - name: "KC-IRQuant建库"
     link: "/library_build/"
     
   - name: "KC-SMP建库"
     link: "/library_build/KC_SSMP/"
+    
+  - name: "KC-DigitRNA建库"
+    link: "/library_build/KC_RNA/"
 
   - name: "KC-Digit-16S建库"
     link: "/library_build/KC_16S_library/"
