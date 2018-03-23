@@ -1,4 +1,6 @@
+
 main: "科研服务"
+
 genome:
   - submain: "基因组学研究"
   - subtitle:
@@ -40,7 +42,7 @@ transcriptome:
         
       - name: "绝对定量转录组测序"
         link: "/science/DigitRNA_sequencing/"
-        
+
 interactome:
   - submain: "互作组学研究"
   - subtitle:
@@ -52,7 +54,7 @@ interactome:
        
       - name: "CLIP测序"
         link: "/science/CLIP_sequencing/"
-        
+
 immunity:
   - submain: "免疫组学研究"
   - subtitle:
@@ -61,13 +63,13 @@ immunity:
         
       - name: "BCR测序"
         link: "/science/BCR_sequencing/"
-        
- microbiology:
-   - submain: "微生物学研究"
-   - subtitle:
+
+microbiology:
+  - submain: "微生物学研究"
+  - subtitle:
       - name: "宏基因组测序"
         link: "/science/metagenome_sequencing/"
-       
+         
       - name: "16S rDNA测序"
         link: "/science/16S_sequencing/"
                
