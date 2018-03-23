@@ -55,7 +55,7 @@ layout: default
   <div class="product-panel"><img src="/image/home/chromosome.png" style="width: 2.5rem; margin-left: 1rem;"><a href="/science/ChIP_sequencing/">ChIP测序</a></div>
   <div class="product-panel"><img src="/image/home/thisimagecou.png" style="width: 4rem; margin-left: 1rem;"><a href="/science/TCR_sequencing/">TCR测序</a></div>
   <div class="product-panel"><img src="/image/home/GluRBRGpremRNA4.png" style="width: 2rem; margin-left: 1rem;"><a href="/clinical/">泛癌种ctDNA/FFPE基因检测</a></div>
-  <div class="product-panel"><img src="/image/home/final_protnotran.png" style="width: 3.5rem; margin-left: 1rem;"><a href="/science/BCR_sequencing/">BCR测序</a></div>
-  <div class="product-panel"><img src="/image/home/download1.png" style="width: 4rem; margin-left: 0.8rem;"><a href="/science/16S_sequencing/">16S rDNA测序</a></div>
+  <div class="product-panel"><img src="/image/home/final_protnotran.png" style="width: 3.5rem; margin-left: 1rem;"><a href="/science/RIP_sequencing/">RIP测序</a></div>
+  <div class="product-panel"><img src="/image/home/download1.png" style="width: 4rem; margin-left: 0.8rem;"><a href="//science/BCR_sequencing/">BCR测序</a></div>
   <div class="product-panel"><img src="/image/home/KC_SSMP.png" style="width: 2.2rem; margin-left: 1rem;"><a href="/clinical/medication_guide/">靶向药用药指导基因检测</a></div>
 </div>
