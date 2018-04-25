@@ -2,8 +2,8 @@
   link: "wuqijia"
   pos: "CEO"
 
-- name: "李婷"
-  link: "liting"
+- name: "罗玉婷"
+  link: "luoyuting"
   pos: "行政部"
 
 - name: "张银"
@@ -42,6 +42,10 @@
   link: "liujunqi"
   pos: "销售部"
 
+# - name: "刘广通"
+#  link: "liuguangtong"
+#  pos: "销售部"
+  
 - name: "吴志坤"
   link: "wuzhikun"
   pos: "开发部"
@@ -74,9 +78,9 @@
   link: "shenlu"
   pos: "生产部"
 
-#- name: "柳竞康"
-#  link: "zhanghongli"
-#  pos: "生产部"
+- name: "柳竞康"
+  link: "liujingkang"
+  pos: "生产部"
 
 - name: "王敏"
   link: "wangmin"
@@ -90,7 +94,7 @@
   link: "gaoyingying"
   pos: "生产部"
 
-- name: "高璐"
-  link: "gaolu"
+- name: "王晶晶"
+  link: "wangjingjing"
   pos: "医学部"
 
