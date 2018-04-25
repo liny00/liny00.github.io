@@ -30,10 +30,6 @@
   link: "xuyanyan"
   pos: "销售部"
 
-- name: "王琳"
-  link: "wanglin"
-  pos: "市场部"
-
 - name: "先春云"
   link: "xianchunyun"
   pos: "销售部"
@@ -46,6 +42,10 @@
 #  link: "liuguangtong"
 #  pos: "销售部"
   
+- name: "王琳"
+  link: "wanglin"
+  pos: "市场部"
+
 - name: "吴志坤"
   link: "wuzhikun"
   pos: "开发部"
@@ -70,10 +70,6 @@
   link: "jiaxiao"
   pos: "生产部"
 
-- name: "谢蝴蝶"
-  link: "xiehudie"
-  pos: "生产部"
-
 - name: "沈璐"
   link: "shenlu"
   pos: "生产部"
@@ -86,6 +82,10 @@
   link: "wangmin"
   pos: "生产部"
 
+- name: "谢蝴蝶"
+  link: "xiehudie"
+  pos: "生产部"
+  
 - name: "陈慧"
   link: "chenhui"
   pos: "生产部"
