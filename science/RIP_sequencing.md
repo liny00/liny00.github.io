@@ -8,7 +8,7 @@ science: true
 
 ## 简介
 
-RIP-seq（RNA-immunoprecipitation and high-throughput sequencing）是RNA免疫共沉淀与高通量测序结合的技术，它通过免疫沉淀目标蛋白来捕获蛋白体内结合的RNA。将捕获的RNA进行高通量测序，可获得RNA结合蛋白（RBP)在体内与众多RNA靶标的结合模式，并对齐结合强度进行精确定量，最终通过分析目的蛋白在体内结合RNA的动态变化，阐述出目的蛋白对基因表达调控的分子机制。这是一项在全基因组水平揭示RNA分子与RBP相互作用的革命性技术。
+RIP-seq（RNA-immunoprecipitation and high-throughput sequencing）是RNA免疫共沉淀与高通量测序结合的技术，它通过免疫沉淀目标蛋白来捕获蛋白体内结合的RNA。将捕获的RNA进行高通量测序，可获得RNA结合蛋白（RBP)在体内与众多RNA靶标的结合模式，并对其结合强度进行精确定量，最终通过分析目的蛋白在体内结合RNA的动态变化，阐述出目的蛋白对基因表达调控的分子机制。这是一项在全基因组水平揭示RNA分子与RBP相互作用的革命性技术。
 RIP-seq 与CLIP-seq即紫外交联免疫沉淀结合高通量测序相比，CLIP-seq需要先紫外交联，再进行免疫共沉淀，对操作要求高，成本也更高。而RIP-seq省略了紫外交联步骤，操作更加简单，成功率更高。
 RIP-seq技术并不局限于miRNA与RBP的传统研究，近期有许多研究发现了lncRNA和蛋白的互作，而lncRNA通过多种的分子机制参与到广泛的生物学过程中，RBP与lncRNA的互作网络为lncRNA的细胞机制和疾病的发生、发展提供新的研究线索和方向。
 
