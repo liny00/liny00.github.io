@@ -29,7 +29,10 @@ mRNA高通量测序数据分析系统
 
 全基因组重亚硫酸盐测序数据分析系统
 
+<p style="text-align: center;"><img src="/image/news/2018/ruanjianzhuzuoquan.png">
+
+这是康测科技始终坚持自主创新、不断追求所取得的成果。
+
 <div style="float: right;"><a href="/{{ page.categories }}">Go Back</a></div>
 
-<p style="text-align: center;"><img src="/image/news/2018/ruanjianzhuzuoquan.png">
-这是康测科技始终坚持自主创新、不断追求所取得的成果。
+
